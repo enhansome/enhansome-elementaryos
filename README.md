@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 495,052 | 🐛 100 | 📅 2026-06-30
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 495,248 | 🐛 100 | 📅 2026-06-30
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -48,7 +48,7 @@
 
 ### Accessories
 
-* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 144 | 🌐 Vala | 📅 2026-08-05 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
+* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 144 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 * [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 216 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
 * [Eddy](https://github.com/donadigo/eddy) ⭐ 187 | 🐛 29 | 🌐 Vala | 📅 2023-08-07 - Simple debian package installer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 * [Clipped](https://github.com/davidmhewitt/clipped) ⭐ 99 | 🐛 32 | 🌐 Vala | 📅 2021-08-31 - Manage your clipboard with ease
@@ -132,7 +132,7 @@
 
 ### Graphics
 
-* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 86 | 🐛 7 | 🌐 Vala | 📅 2026-08-12 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
+* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 86 | 🐛 4 | 🌐 Vala | 📅 2026-08-13 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
 * [Resizer](https://github.com/peteruithoven/resizer) ⭐ 15 | 🐛 6 | 🌐 Vala | 📅 2022-06-29 - Quickly resize images from the context menu [:white\_check\_mark:](https://appcenter.elementary.io/com.github.peteruithoven.resizer)
 * [Iconoscope](https://github.com/santileortiz/Iconoscope) ⭐ 14 | 🐛 5 | 🌐 C | 📅 2021-10-10 - Simple icon visualizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.santileortiz.iconoscope)
 * [Memories](https://github.com/artemanufrij/showmypictures) ⭐ 14 | 🐛 8 | 🌐 Vala | 📅 2020-09-03 - An image viewer for managing local image files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,576 | 🐛 165 | 🌐 Vala | 📅 2026-08-04 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,578 | 🐛 166 | 🌐 Vala | 📅 2026-08-04 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)

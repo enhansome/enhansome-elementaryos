@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-08-05T19:02:04Z",
+            "last_commit": "2026-08-13T08:51:27Z",
             "owner": "babluboy",
             "repo": "bookworm",
             "stars": 1386
@@ -822,7 +822,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-08-12T10:51:01Z",
+            "last_commit": "2026-08-13T13:15:25Z",
             "owner": "GijsGoudzwaard",
             "repo": "Image-Optimizer",
             "stars": 86
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-04T23:58:04Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5576
+            "stars": 5578
           }
         },
         {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:23.841Z",
+    "last_updated": "2026-08-13T14:25:02.829Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
