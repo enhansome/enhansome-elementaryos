@@ -577,7 +577,7 @@
             "last_commit": "2025-12-30T23:56:04Z",
             "owner": "akiraux",
             "repo": "Akira",
-            "stars": 5334
+            "stars": 5335
           }
         },
         {
@@ -721,7 +721,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2824
+            "stars": 2826
           }
         },
         {
@@ -1084,10 +1084,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-08-04T23:58:04Z",
+            "last_commit": "2026-08-14T00:33:01Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5578
+            "stars": 5580
           }
         },
         {
@@ -1375,7 +1375,7 @@
             "last_commit": "2023-05-01T16:43:48Z",
             "owner": "teejee2008",
             "repo": "timeshift",
-            "stars": 4767
+            "stars": 4765
           }
         },
         {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:25:02.829Z",
+    "last_updated": "2026-08-14T14:18:39.500Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
