@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T08:51:27Z",
             "owner": "babluboy",
             "repo": "bookworm",
-            "stars": 1386
+            "stars": 1385
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-15T00:46:29Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5581
+            "stars": 5582
           }
         },
         {
@@ -1375,7 +1375,7 @@
             "last_commit": "2023-05-01T16:43:48Z",
             "owner": "teejee2008",
             "repo": "timeshift",
-            "stars": 4765
+            "stars": 4764
           }
         },
         {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:37:31.995Z",
+    "last_updated": "2026-08-16T13:38:34.119Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",

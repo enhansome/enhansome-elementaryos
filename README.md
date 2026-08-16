@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 495,985 | 🐛 100 | 📅 2026-06-30
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 496,370 | 🐛 100 | 📅 2026-06-30
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -48,7 +48,7 @@
 
 ### Accessories
 
-* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 144 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
+* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,385 | 🐛 144 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 * [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 216 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
 * [Eddy](https://github.com/donadigo/eddy) ⭐ 187 | 🐛 29 | 🌐 Vala | 📅 2023-08-07 - Simple debian package installer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 * [Clipped](https://github.com/davidmhewitt/clipped) ⭐ 99 | 🐛 32 | 🌐 Vala | 📅 2021-08-31 - Manage your clipboard with ease
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,581 | 🐛 163 | 🌐 Vala | 📅 2026-08-15 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,582 | 🐛 163 | 🌐 Vala | 📅 2026-08-15 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
