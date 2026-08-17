@@ -349,7 +349,7 @@
             "last_commit": "2024-03-08T13:44:55Z",
             "owner": "donadigo",
             "repo": "appeditor",
-            "stars": 218
+            "stars": 219
           }
         }
       ],
@@ -721,7 +721,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2826
+            "stars": 2828
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2026-07-16T10:14:47Z",
             "owner": "geigi",
             "repo": "cozy",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2020-11-17T22:01:07Z",
             "owner": "artemanufrij",
             "repo": "playmyvideos",
-            "stars": 30
+            "stars": 29
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-15T00:46:29Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5582
+            "stars": 5584
           }
         },
         {
@@ -1375,7 +1375,7 @@
             "last_commit": "2023-05-01T16:43:48Z",
             "owner": "teejee2008",
             "repo": "timeshift",
-            "stars": 4764
+            "stars": 4763
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-08-15T04:32:24Z",
             "owner": "elementary",
             "repo": "monitor",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:38:34.119Z",
+    "last_updated": "2026-08-17T13:47:48.620Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
