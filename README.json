@@ -577,7 +577,7 @@
             "last_commit": "2025-12-30T23:56:04Z",
             "owner": "akiraux",
             "repo": "Akira",
-            "stars": 5335
+            "stars": 5336
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-15T00:46:29Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5584
+            "stars": 5588
           }
         },
         {
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:47:48.620Z",
+    "last_updated": "2026-08-18T13:50:41.923Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
