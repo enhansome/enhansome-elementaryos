@@ -1,1562 +1,1604 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bookworm",
+              "description": "A simple ebook reader :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80118937,
+                "language": "Vala",
+                "last_commit": "2026-08-13T08:51:27Z",
+                "owner": "babluboy",
+                "repo": "bookworm",
+                "stars": 1385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MarkMyWords",
+              "description": "A minimal markdown editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28447230,
+                "language": "Vala",
+                "last_commit": "2021-01-18T13:00:19Z",
+                "owner": "voldyman",
+                "repo": "MarkMyWords",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eddy",
+              "description": "Simple debian package installer :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57064608,
+                "language": "Vala",
+                "last_commit": "2023-08-07T15:02:22Z",
+                "owner": "donadigo",
+                "repo": "eddy",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clipped",
+              "description": "Manage your clipboard with ease",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97155130,
+                "language": "Vala",
+                "last_commit": "2021-08-31T16:14:02Z",
+                "owner": "davidmhewitt",
+                "repo": "clipped",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nimbus",
+              "description": "A minimal weather applet :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89729019,
+                "language": "Vala",
+                "last_commit": "2024-09-05T19:35:09Z",
+                "owner": "danirabbit",
+                "repo": "nimbus",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Burner",
+              "description": "A simple imageburner inspired by Etcher's UI :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97341122,
+                "language": "Vala",
+                "last_commit": "2020-10-25T06:56:24Z",
+                "owner": "artemanufrij",
+                "repo": "imageburner",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Screencast",
+              "description": "A simple screencast recorder :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98567245,
+                "language": "Vala",
+                "last_commit": "2020-11-17T14:27:31Z",
+                "owner": "artemanufrij",
+                "repo": "screencast",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lights-Up",
+              "description": "Control Philips Hue lights from your elementary OS desktop",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115459101,
+                "language": "Vala",
+                "last_commit": "2022-04-23T19:59:19Z",
+                "owner": "Philip-Scott",
+                "repo": "Lights-Up",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Writer",
+              "description": "Word processor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151196858,
+                "language": "Vala",
+                "last_commit": "2025-12-29T14:38:31Z",
+                "owner": "ryonakano",
+                "repo": "writer",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cipher",
+              "description": "Encode and decode text :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112231563,
+                "language": "Vala",
+                "last_commit": "2022-07-18T16:25:21Z",
+                "owner": "arshubham",
+                "repo": "cipher",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Translator",
+              "description": "Translator app :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92586223,
+                "language": "Vala",
+                "last_commit": "2021-03-25T17:17:26Z",
+                "owner": "RapidFingers",
+                "repo": "Translator",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Timer",
+              "description": "The ultimate tea timer :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109014867,
+                "language": "Vala",
+                "last_commit": "2021-07-23T21:35:50Z",
+                "owner": "parnoldx",
+                "repo": "timer",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hash It",
+              "description": "A simple app for checking usual checksums :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100030924,
+                "language": "Vala",
+                "last_commit": "2020-08-26T12:00:12Z",
+                "owner": "artemanufrij",
+                "repo": "hashit",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TrimDown",
+              "description": "A simple, feature rich, writing app for writing Novels, Short stories, Scripts and Articls",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124539409,
+                "language": "Vala",
+                "last_commit": "2019-08-04T11:08:50Z",
+                "owner": "artemanufrij",
+                "repo": "trimdown",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lottery",
+              "description": "Who will be the winner? :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 106823253,
+                "language": "Vala",
+                "last_commit": "2021-08-30T13:06:22Z",
+                "owner": "unbelievableflavour",
+                "repo": "lottery",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Translit",
+              "description": "Translit is a method of encoding Cyrillic letters with Latin ones :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102906685,
+                "language": "Vala",
+                "last_commit": "2020-10-25T07:04:34Z",
+                "owner": "artemanufrij",
+                "repo": "translit",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "La Nova Reta Vortaro",
+              "description": "Modern esperanto dictionnary",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124756374,
+                "language": "Vala",
+                "last_commit": "2018-03-11T15:50:49Z",
+                "owner": "nova-reta-vortaro",
+                "repo": "nrv-gtk",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nutrition",
+              "description": "USDA Food Composition Database searcher",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121439115,
+                "language": "Vala",
+                "last_commit": "2018-02-13T22:26:13Z",
+                "owner": "AnderRasoVazquez",
+                "repo": "nutrition",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weather",
+              "description": "A forecast application using OpenWeatherMap API :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112911601,
+                "language": "Vala",
+                "last_commit": "2018-09-09T09:07:54Z",
+                "owner": "camellan",
+                "repo": "weather",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neumann",
+              "description": "Show 4 digit random numbers on button click.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135300724,
+                "language": "Vala",
+                "last_commit": "2018-06-01T06:13:40Z",
+                "owner": "ibraheem-moosa",
+                "repo": "neumann",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Accessories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elementary tweaks",
+              "description": "elementary OS customisation tool",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53800603,
+                "language": "Vala",
+                "last_commit": "2020-10-17T01:03:43Z",
+                "owner": "elementary-tweaks",
+                "repo": "elementary-tweaks",
+                "stars": 601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AppEditor",
+              "description": "Edit application menu :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100415189,
+                "language": "Vala",
+                "last_commit": "2024-03-08T13:44:55Z",
+                "owner": "donadigo",
+                "repo": "appeditor",
+                "stars": 219
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Customization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sequeler",
+              "description": "Friendly SQL Client :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99072637,
+                "language": "Vala",
+                "last_commit": "2026-07-03T11:01:33Z",
+                "owner": "ellie-commons",
+                "repo": "sequeler",
+                "stars": 841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quickDocs",
+              "description": "quickly read developer documentation :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 115626821,
+                "language": "Vala",
+                "last_commit": "2025-06-23T21:19:53Z",
+                "owner": "mdh34",
+                "repo": "quickDocs",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vala Lint",
+              "description": "Check code-style of Vala code files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70204293,
+                "language": "Vala",
+                "last_commit": "2026-05-13T08:04:39Z",
+                "owner": "vala-lang",
+                "repo": "vala-lint",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elementary IDE",
+              "description": "An unofficial elementary OS (Vala) oriented IDE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69891193,
+                "language": "Vala",
+                "last_commit": "2017-08-29T12:56:42Z",
+                "owner": "donadigo",
+                "repo": "elementary-ide",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elementary-icons-template",
+              "description": "A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116067859,
+                "language": null,
+                "last_commit": "2020-10-12T17:07:57Z",
+                "owner": "micahilbery",
+                "repo": "elementary-icon-templates",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RegEx Tester",
+              "description": "A simple regex tester :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100425769,
+                "language": "Vala",
+                "last_commit": "2023-02-28T15:18:02Z",
+                "owner": "artemanufrij",
+                "repo": "regextester",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Develop",
+              "description": "A simple tool to help Elementary OS developers to develop their own apps and widgets :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 133402235,
+                "language": "Vala",
+                "last_commit": "2021-01-11T08:21:06Z",
+                "owner": "alcadica",
+                "repo": "develop",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snaptastic",
+              "description": "A manager for snaps :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 119510942,
+                "language": "Vala",
+                "last_commit": "2021-08-30T13:05:08Z",
+                "owner": "unbelievableflavour",
+                "repo": "snaptastic",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alias",
+              "description": "Simplify your commands :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 121627558,
+                "language": "Vala",
+                "last_commit": "2021-08-30T13:06:31Z",
+                "owner": "unbelievableflavour",
+                "repo": "alias",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP Tester",
+              "description": "Test your PHP code easily :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 106010547,
+                "language": "Vala",
+                "last_commit": "2021-08-30T13:04:16Z",
+                "owner": "unbelievableflavour",
+                "repo": "php-tester",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vanat",
+              "description": "Dependency Manager for Vala",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117998313,
+                "language": "Vala",
+                "last_commit": "2021-09-25T13:30:54Z",
+                "owner": "vanat",
+                "repo": "vanat",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Watcher",
+              "description": "Know when your websites are misbehaving :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131940603,
+                "language": "Vala",
+                "last_commit": "2018-11-10T09:00:31Z",
+                "owner": "kjlaw89",
+                "repo": "webwatcher",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ValaCompiler",
+              "description": "A simple GUI for valac :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109184703,
+                "language": "Vala",
+                "last_commit": "2020-10-25T07:06:29Z",
+                "owner": "basjam",
+                "repo": "ValaCompiler",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "File Conflicts Finder",
+              "description": "Helps to find file names which could have conflicts on Windows :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127177241,
+                "language": "Vala",
+                "last_commit": "2020-11-17T22:18:56Z",
+                "owner": "artemanufrij",
+                "repo": "findfileconflicts",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Akira",
+              "description": "Native Linux App for UI and UX Design built in Vala and Gtk :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91653269,
+                "language": "Vala",
+                "last_commit": "2025-12-30T23:56:04Z",
+                "owner": "akiraux",
+                "repo": "Akira",
+                "stars": 5336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Color Picker",
+              "description": "The most intiutive Color Picker to speed up your workflow :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92343084,
+                "language": "Vala",
+                "last_commit": "2021-08-07T14:30:06Z",
+                "owner": "RonnyDo",
+                "repo": "ColorPicker",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dippi",
+              "description": "Calculate display info like DPI and aspect ratio :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116722712,
+                "language": "Vala",
+                "last_commit": "2026-05-08T02:22:44Z",
+                "owner": "cassidyjames",
+                "repo": "dippi",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Harvey",
+              "description": "A color contrast checker :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92607918,
+                "language": "Vala",
+                "last_commit": "2024-08-29T20:09:01Z",
+                "owner": "danirabbit",
+                "repo": "harvey",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lookbook",
+              "description": "Browse and find system icons",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94148654,
+                "language": "Vala",
+                "last_commit": "2021-07-30T00:03:13Z",
+                "owner": "danirabbit",
+                "repo": "lookbook",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Principles",
+              "description": "Remember Dieter Rams' ten principles of good design :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 134122464,
+                "language": "Vala",
+                "last_commit": "2021-08-26T17:01:21Z",
+                "owner": "cassidyjames",
+                "repo": "principles",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Palette",
+              "description": "Color palette app :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 128563182,
+                "language": "Vala",
+                "last_commit": "2021-08-10T00:36:05Z",
+                "owner": "cassidyjames",
+                "repo": "palette",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swatches",
+              "description": "Colour variation tool :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94773263,
+                "language": "CMake",
+                "last_commit": "2018-07-18T16:08:36Z",
+                "owner": "patkaiist",
+                "repo": "swatches",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Design"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elementary-nylas",
+              "description": "Themes for Nylas N1 desktop email client intented to make it more friendly",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49837265,
+                "language": "CSS",
+                "last_commit": "2016-04-16T02:17:24Z",
+                "owner": "edipox",
+                "repo": "elementary-nylas",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Email"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GameHub",
+              "description": "Games manager/downloader/library written in Vala",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135071605,
+                "language": "Vala",
+                "last_commit": "2025-04-13T15:01:45Z",
+                "owner": "tkashkin",
+                "repo": "GameHub",
+                "stars": 2828
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gnonograms",
+              "description": "Create and solve gnonogram puzzles :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115516721,
+                "language": "Vala",
+                "last_commit": "2024-12-12T17:17:17Z",
+                "owner": "jeremypw",
+                "repo": "gnonograms",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mupen GUI",
+              "description": "Mupen64plus frontend designed based on Elementary OS guidelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142643068,
+                "language": "Vala",
+                "last_commit": "2020-09-02T05:36:45Z",
+                "owner": "EFDos",
+                "repo": "mupengui",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sudoku",
+              "description": "The number that is alone :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107866919,
+                "language": "Vala",
+                "last_commit": "2019-11-09T10:19:17Z",
+                "owner": "parnoldx",
+                "repo": "sudoku",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Brutus",
+              "description": "This is a City-Building (Caesar3-like) game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56188417,
+                "language": "Vala",
+                "last_commit": "2017-08-31T01:01:39Z",
+                "owner": "paul-arg",
+                "repo": "brutus-game",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elememory",
+              "description": "A simple memory game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80953708,
+                "language": "Vala",
+                "last_commit": "2017-12-27T15:36:16Z",
+                "owner": "Heiko-M",
+                "repo": "elememory",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Post Apoc RPG Tools",
+              "description": "Post Apocalyptic RPG Tools App",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146046445,
+                "language": "Vala",
+                "last_commit": "2018-08-30T15:48:01Z",
+                "owner": "FriendOfEntropy",
+                "repo": "postapocrpgtools",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image Optimizer",
+              "description": "A simple image optimizer :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97706352,
+                "language": "Vala",
+                "last_commit": "2026-08-13T13:15:25Z",
+                "owner": "GijsGoudzwaard",
+                "repo": "Image-Optimizer",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Resizer",
+              "description": "Quickly resize images from the context menu :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118376664,
+                "language": "Vala",
+                "last_commit": "2022-06-29T16:25:53Z",
+                "owner": "peteruithoven",
+                "repo": "resizer",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Iconoscope",
+              "description": "Simple icon visualizer :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124003190,
+                "language": "C",
+                "last_commit": "2021-10-10T09:46:11Z",
+                "owner": "santileortiz",
+                "repo": "Iconoscope",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memories",
+              "description": "An image viewer for managing local image files :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115890577,
+                "language": "Vala",
+                "last_commit": "2020-09-03T10:51:32Z",
+                "owner": "artemanufrij",
+                "repo": "showmypictures",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Torrential",
+              "description": "Download torrents in style :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93779973,
+                "language": "Rust",
+                "last_commit": "2026-07-15T23:21:25Z",
+                "owner": "davidmhewitt",
+                "repo": "torrential",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Webpin",
+              "description": "A simple app to pin websites on the desktop :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98917568,
+                "language": "Vala",
+                "last_commit": "2022-01-18T07:20:07Z",
+                "owner": "artemanufrij",
+                "repo": "webpin",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firefox elementary Theme",
+              "description": "A theme for Firefox with elementary OS appearence",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137925534,
+                "language": "CSS",
+                "last_commit": "2018-07-12T08:46:52Z",
+                "owner": "harveycabaguio",
+                "repo": "firefox-elementary-theme",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Odysseus",
+              "description": "A simple and performant browser yet powerful elementary OS-style window onto the open decentralized web :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 72978075,
+                "language": "Vala",
+                "last_commit": "2022-06-04T07:17:02Z",
+                "owner": "alcinnz",
+                "repo": "Odysseus",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pushy",
+              "description": "Pushbullet client :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101583763,
+                "language": "Vala",
+                "last_commit": "2020-04-16T04:50:14Z",
+                "owner": "harisvsulaiman",
+                "repo": "pushy",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Internet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cozy",
+              "description": "A modern audio book player :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97223405,
+                "language": "Python",
+                "last_commit": "2026-07-16T10:14:47Z",
+                "owner": "geigi",
+                "repo": "cozy",
+                "stars": 1210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gradio",
+              "description": "A app for finding and listening to internet radio stations",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 58459896,
+                "language": "Vala",
+                "last_commit": "2019-11-16T17:32:38Z",
+                "owner": "haecker-felix",
+                "repo": "Gradio",
+                "stars": 326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reco",
+              "description": "Audio recording app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156989873,
+                "language": "Vala",
+                "last_commit": "2026-07-27T23:15:48Z",
+                "owner": "ryonakano",
+                "repo": "reco",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mixer",
+              "description": "A no-frills volume mixer, with simplicity and usability at its core. :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380015685,
+                "language": "Vala",
+                "last_commit": "2024-08-21T11:32:50Z",
+                "owner": "ChildishGiant",
+                "repo": "mixer",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tranqil",
+              "description": "Relax to soothing sounds of nature :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85604692,
+                "language": "Vala",
+                "last_commit": "2022-10-29T09:09:11Z",
+                "owner": "nick92",
+                "repo": "tranqil",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eRadio",
+              "description": "A minimalist and powerful radio player",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24555275,
+                "language": "Vala",
+                "last_commit": "2020-01-11T17:45:47Z",
+                "owner": "DreamDevel",
+                "repo": "eRadio",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cinema",
+              "description": "A video player for watching local video files :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108672696,
+                "language": "Vala",
+                "last_commit": "2020-11-17T22:01:07Z",
+                "owner": "artemanufrij",
+                "repo": "playmyvideos",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ellyrics",
+              "description": "Song lyrics search application",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124781990,
+                "language": "Vala",
+                "last_commit": "2018-03-13T22:52:02Z",
+                "owner": "mkinitcpio",
+                "repo": "ellyrics",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimedia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Planner",
+              "description": "The most intuitive project and task management tool :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154173536,
+                "language": "Vala",
+                "last_commit": "2026-08-15T00:46:29Z",
+                "owner": "alainm23",
+                "repo": "planify",
+                "stars": 5592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minder",
+              "description": "Mind-mapping application :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115215556,
+                "language": "Vala",
+                "last_commit": "2026-07-20T23:25:47Z",
+                "owner": "phase1geo",
+                "repo": "Minder",
+                "stars": 1194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FeedReader",
+              "description": "Modern desktop application designed to complement existing web-based RSS accounts",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41181220,
+                "language": "Vala",
+                "last_commit": "2020-05-23T14:46:24Z",
+                "owner": "jangernert",
+                "repo": "FeedReader",
+                "stars": 768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notes Up",
+              "description": "Markdown notes editor & manager :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44445638,
+                "language": "Vala",
+                "last_commit": "2022-03-24T18:23:24Z",
+                "owner": "Philip-Scott",
+                "repo": "Notes-up",
+                "stars": 632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spice-up",
+              "description": "Create simple and beautiful presentations on the Linux desktop :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67453554,
+                "language": "Vala",
+                "last_commit": "2022-03-22T23:36:23Z",
+                "owner": "Philip-Scott",
+                "repo": "Spice-up",
+                "stars": 605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go For It",
+              "description": "A stylish to-do list with built-in productivity timer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28086763,
+                "language": "Vala",
+                "last_commit": "2021-11-07T15:28:31Z",
+                "owner": "Manuel-Kehl",
+                "repo": "Go-For-It",
+                "stars": 514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quilter",
+              "description": "Focus on your writing :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93226561,
+                "language": "Vala",
+                "last_commit": "2026-08-12T02:26:38Z",
+                "owner": "lainsce",
+                "repo": "quilter",
+                "stars": 295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agenda",
+              "description": "A simple, fast, no-nonsense to-do (task) list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91588287,
+                "language": "Vala",
+                "last_commit": "2026-05-20T16:13:22Z",
+                "owner": "dahenson",
+                "repo": "agenda",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spreadsheet",
+              "description": "A spreadsheet app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89137555,
+                "language": "Vala",
+                "last_commit": "2026-06-22T22:18:05Z",
+                "owner": "elework",
+                "repo": "Spreadsheet",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Workspaces",
+              "description": "Workspaces lets you configure and quickly launch all you need to work on a project :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286719496,
+                "language": "Vala",
+                "last_commit": "2021-02-21T08:52:58Z",
+                "owner": "DevAlien",
+                "repo": "workspaces",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hackup",
+              "description": "Read Hacker News from the desktop",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 133841153,
+                "language": "Vala",
+                "last_commit": "2025-06-23T21:23:06Z",
+                "owner": "mdh34",
+                "repo": "hackup",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coffee",
+              "description": "Keep up-to-date with current news and weather with Coffee",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104494601,
+                "language": "Vala",
+                "last_commit": "2019-11-14T13:07:39Z",
+                "owner": "nick92",
+                "repo": "coffee",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Envelope",
+              "description": "Personal finance manager :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117781304,
+                "language": "Vala",
+                "last_commit": "2020-08-19T14:14:58Z",
+                "owner": "cjfloss",
+                "repo": "envelope",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Luna",
+              "description": "An amazing calendar widget :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146534772,
+                "language": "Vala",
+                "last_commit": "2022-07-06T05:31:13Z",
+                "owner": "calo001",
+                "repo": "luna",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stickies",
+              "description": "Neat sticky notes app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84985737,
+                "language": "Python",
+                "last_commit": "2017-11-26T15:43:29Z",
+                "owner": "aboudzz",
+                "repo": "stickies",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Date Countdown",
+              "description": "A date countdown applet :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98057627,
+                "language": "Vala",
+                "last_commit": "2020-11-08T19:34:08Z",
+                "owner": "rickybassom",
+                "repo": "date-countdown",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Valawarden",
+              "description": "Unofficial native Bitwarden client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155766274,
+                "language": "Vala",
+                "last_commit": "2025-04-19T17:36:02Z",
+                "owner": "faejr",
+                "repo": "valawarden",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Locksmith",
+              "description": "A simple password generator applet :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145073372,
+                "language": "Vala",
+                "last_commit": "2020-08-27T14:33:32Z",
+                "owner": "ChristopherNugent",
+                "repo": "Locksmith",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Timeshift",
+              "description": "System restore tool for Linux",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 86088310,
+                "language": "Vala",
+                "last_commit": "2023-05-01T16:43:48Z",
+                "owner": "teejee2008",
+                "repo": "timeshift",
+                "stars": 4763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monitor",
+              "description": "Manage processes and monitor system resources :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98550935,
+                "language": "Vala",
+                "last_commit": "2026-08-15T04:32:24Z",
+                "owner": "elementary",
+                "repo": "monitor",
+                "stars": 363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Desktop Folder",
+              "description": "Bring your desktop back to life :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98743804,
+                "language": "Vala",
+                "last_commit": "2022-11-07T14:05:24Z",
+                "owner": "spheras",
+                "repo": "desktopfolder",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wammer",
+              "description": "Jamming your WiFi network :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131111403,
+                "language": "Vala",
+                "last_commit": "2020-05-19T18:27:03Z",
+                "owner": "RonnyDo",
+                "repo": "Wammer",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bookmark Manager",
+              "description": "Manager for your ssh configs :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 90045360,
+                "language": "Vala",
+                "last_commit": "2021-08-30T13:05:36Z",
+                "owner": "unbelievableflavour",
+                "repo": "bookmark-manager",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Formatter",
+              "description": "A simple formatter tool :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99486328,
+                "language": "Vala",
+                "last_commit": "2021-07-16T19:23:28Z",
+                "owner": "Djaler",
+                "repo": "Formatter",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dimmer Switch",
+              "description": "Brightness Adjustment for Linux :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151711128,
+                "language": "Vala",
+                "last_commit": "2021-11-16T11:21:13Z",
+                "owner": "panosx2",
+                "repo": "brightness",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Configurator",
+              "description": "Stylish dconf editor",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 98228161,
+                "language": "Vala",
+                "last_commit": "2017-07-24T20:50:19Z",
+                "owner": "cassidyjames",
+                "repo": "configurator",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Repositories Manager",
+              "description": "Manage your repositories",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103980604,
+                "language": "Vala",
+                "last_commit": "2019-01-18T19:29:56Z",
+                "owner": "unbelievableflavour",
+                "repo": "repositories-manager",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "Manage your system's Personal Package Archives (PPA) repository sources :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121192778,
+                "language": "Vala",
+                "last_commit": "2018-02-12T12:55:06Z",
+                "owner": "chances",
+                "repo": "repo",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elementaryPlus",
+              "description": "elementaryPlus is a community maintained addition to elementary OS's default icon theme",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25980493,
+                "language": "Python",
+                "last_commit": "2018-01-02T16:29:18Z",
+                "owner": "Manuel-Kehl",
+                "repo": "elementaryPlus",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elementary X",
+              "description": "Original elementary theme with some tweaks and OS X window controls",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118568608,
+                "language": "CSS",
+                "last_commit": "2023-02-05T17:12:29Z",
+                "owner": "surajmandalcell",
+                "repo": "elementary-x",
+                "stars": 297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uratau Icons",
+              "description": "The most complete icon package for third-party applications with elementary OS design",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75567779,
+                "language": "Shell",
+                "last_commit": "2019-11-02T09:12:09Z",
+                "owner": "btd1337",
+                "repo": "urutau-icons",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Theming"
+        }
+      ],
       "title": "Applications"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bookworm",
-          "description": "A simple ebook reader :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-13T08:51:27Z",
-            "owner": "babluboy",
-            "repo": "bookworm",
-            "stars": 1385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MarkMyWords",
-          "description": "A minimal markdown editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-01-18T13:00:19Z",
-            "owner": "voldyman",
-            "repo": "MarkMyWords",
-            "stars": 216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eddy",
-          "description": "Simple debian package installer :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2023-08-07T15:02:22Z",
-            "owner": "donadigo",
-            "repo": "eddy",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clipped",
-          "description": "Manage your clipboard with ease",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-08-31T16:14:02Z",
-            "owner": "davidmhewitt",
-            "repo": "clipped",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nimbus",
-          "description": "A minimal weather applet :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-09-05T19:35:09Z",
-            "owner": "danirabbit",
-            "repo": "nimbus",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Image Burner",
-          "description": "A simple imageburner inspired by Etcher's UI :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-10-25T06:56:24Z",
-            "owner": "artemanufrij",
-            "repo": "imageburner",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Screencast",
-          "description": "A simple screencast recorder :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-11-17T14:27:31Z",
-            "owner": "artemanufrij",
-            "repo": "screencast",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lights-Up",
-          "description": "Control Philips Hue lights from your elementary OS desktop",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-04-23T19:59:19Z",
-            "owner": "Philip-Scott",
-            "repo": "Lights-Up",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Writer",
-          "description": "Word processor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-12-29T14:38:31Z",
-            "owner": "ryonakano",
-            "repo": "writer",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cipher",
-          "description": "Encode and decode text :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-07-18T16:25:21Z",
-            "owner": "arshubham",
-            "repo": "cipher",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Translator",
-          "description": "Translator app :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-03-25T17:17:26Z",
-            "owner": "RapidFingers",
-            "repo": "Translator",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Timer",
-          "description": "The ultimate tea timer :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-07-23T21:35:50Z",
-            "owner": "parnoldx",
-            "repo": "timer",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hash It",
-          "description": "A simple app for checking usual checksums :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-08-26T12:00:12Z",
-            "owner": "artemanufrij",
-            "repo": "hashit",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TrimDown",
-          "description": "A simple, feature rich, writing app for writing Novels, Short stories, Scripts and Articls",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2019-08-04T11:08:50Z",
-            "owner": "artemanufrij",
-            "repo": "trimdown",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lottery",
-          "description": "Who will be the winner? :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-30T13:06:22Z",
-            "owner": "unbelievableflavour",
-            "repo": "lottery",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Translit",
-          "description": "Translit is a method of encoding Cyrillic letters with Latin ones :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-10-25T07:04:34Z",
-            "owner": "artemanufrij",
-            "repo": "translit",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "La Nova Reta Vortaro",
-          "description": "Modern esperanto dictionnary",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-03-11T15:50:49Z",
-            "owner": "nova-reta-vortaro",
-            "repo": "nrv-gtk",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nutrition",
-          "description": "USDA Food Composition Database searcher",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-02-13T22:26:13Z",
-            "owner": "AnderRasoVazquez",
-            "repo": "nutrition",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Weather",
-          "description": "A forecast application using OpenWeatherMap API :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-09-09T09:07:54Z",
-            "owner": "camellan",
-            "repo": "weather",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neumann",
-          "description": "Show 4 digit random numbers on button click.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-06-01T06:13:40Z",
-            "owner": "ibraheem-moosa",
-            "repo": "neumann",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coin",
-          "description": "Track the virtual currencies in real world currency value with this handy applet :white_check_mark:",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Exchange",
-          "description": "Convert currencies with no hassle :white_check_mark:",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Meteo",
-          "description": "Know the forecast of the next hours and days with data and maps :white_check_mark:",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Socratest",
-          "description": "Your new personal digital teacher!",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Shopper",
-          "description": "Track the price of your favourite products with this app",
-          "children": []
-        }
-      ],
-      "title": "Accessories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "elementary tweaks",
-          "description": "elementary OS customisation tool",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2020-10-17T01:03:43Z",
-            "owner": "elementary-tweaks",
-            "repo": "elementary-tweaks",
-            "stars": 601
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AppEditor",
-          "description": "Edit application menu :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-03-08T13:44:55Z",
-            "owner": "donadigo",
-            "repo": "appeditor",
-            "stars": 219
-          }
-        }
-      ],
-      "title": "Customization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sequeler",
-          "description": "Friendly SQL Client :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-03T11:01:33Z",
-            "owner": "ellie-commons",
-            "repo": "sequeler",
-            "stars": 841
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quickDocs",
-          "description": "quickly read developer documentation :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2025-06-23T21:19:53Z",
-            "owner": "mdh34",
-            "repo": "quickDocs",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vala Lint",
-          "description": "Check code-style of Vala code files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-05-13T08:04:39Z",
-            "owner": "vala-lang",
-            "repo": "vala-lint",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elementary IDE",
-          "description": "An unofficial elementary OS (Vala) oriented IDE",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2017-08-29T12:56:42Z",
-            "owner": "donadigo",
-            "repo": "elementary-ide",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elementary-icons-template",
-          "description": "A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-12T17:07:57Z",
-            "owner": "micahilbery",
-            "repo": "elementary-icon-templates",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RegEx Tester",
-          "description": "A simple regex tester :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2023-02-28T15:18:02Z",
-            "owner": "artemanufrij",
-            "repo": "regextester",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Develop",
-          "description": "A simple tool to help Elementary OS developers to develop their own apps and widgets :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-01-11T08:21:06Z",
-            "owner": "alcadica",
-            "repo": "develop",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snaptastic",
-          "description": "A manager for snaps :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-30T13:05:08Z",
-            "owner": "unbelievableflavour",
-            "repo": "snaptastic",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alias",
-          "description": "Simplify your commands :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-30T13:06:31Z",
-            "owner": "unbelievableflavour",
-            "repo": "alias",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP Tester",
-          "description": "Test your PHP code easily :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-30T13:04:16Z",
-            "owner": "unbelievableflavour",
-            "repo": "php-tester",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vanat",
-          "description": "Dependency Manager for Vala",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-09-25T13:30:54Z",
-            "owner": "vanat",
-            "repo": "vanat",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web Watcher",
-          "description": "Know when your websites are misbehaving :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-11-10T09:00:31Z",
-            "owner": "kjlaw89",
-            "repo": "webwatcher",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ValaCompiler",
-          "description": "A simple GUI for valac :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-10-25T07:06:29Z",
-            "owner": "basjam",
-            "repo": "ValaCompiler",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "File Conflicts Finder",
-          "description": "Helps to find file names which could have conflicts on Windows :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-11-17T22:18:56Z",
-            "owner": "artemanufrij",
-            "repo": "findfileconflicts",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "URM Simulator",
-          "description": "Unlimited programming potential :white_check_mark:",
-          "children": []
-        }
-      ],
-      "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Akira",
-          "description": "Native Linux App for UI and UX Design built in Vala and Gtk :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-12-30T23:56:04Z",
-            "owner": "akiraux",
-            "repo": "Akira",
-            "stars": 5336
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Color Picker",
-          "description": "The most intiutive Color Picker to speed up your workflow :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-08-07T14:30:06Z",
-            "owner": "RonnyDo",
-            "repo": "ColorPicker",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dippi",
-          "description": "Calculate display info like DPI and aspect ratio :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-05-08T02:22:44Z",
-            "owner": "cassidyjames",
-            "repo": "dippi",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Harvey",
-          "description": "A color contrast checker :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-08-29T20:09:01Z",
-            "owner": "danirabbit",
-            "repo": "harvey",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lookbook",
-          "description": "Browse and find system icons",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-07-30T00:03:13Z",
-            "owner": "danirabbit",
-            "repo": "lookbook",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Principles",
-          "description": "Remember Dieter Rams' ten principles of good design :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-26T17:01:21Z",
-            "owner": "cassidyjames",
-            "repo": "principles",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Palette",
-          "description": "Color palette app :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-10T00:36:05Z",
-            "owner": "cassidyjames",
-            "repo": "palette",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swatches",
-          "description": "Colour variation tool :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CMake",
-            "last_commit": "2018-07-18T16:08:36Z",
-            "owner": "patkaiist",
-            "repo": "swatches",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Design"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "elementary-nylas",
-          "description": "Themes for Nylas N1 desktop email client intented to make it more friendly",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2016-04-16T02:17:24Z",
-            "owner": "edipox",
-            "repo": "elementary-nylas",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elementary Thunderbird",
-          "description": "Thunderbird",
-          "children": []
-        }
-      ],
-      "title": "Email"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GameHub",
-          "description": "Games manager/downloader/library written in Vala",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2025-04-13T15:01:45Z",
-            "owner": "tkashkin",
-            "repo": "GameHub",
-            "stars": 2828
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gnonograms",
-          "description": "Create and solve gnonogram puzzles :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-12-12T17:17:17Z",
-            "owner": "jeremypw",
-            "repo": "gnonograms",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mupen GUI",
-          "description": "Mupen64plus frontend designed based on Elementary OS guidelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-09-02T05:36:45Z",
-            "owner": "EFDos",
-            "repo": "mupengui",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sudoku",
-          "description": "The number that is alone :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2019-11-09T10:19:17Z",
-            "owner": "parnoldx",
-            "repo": "sudoku",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Brutus",
-          "description": "This is a City-Building (Caesar3-like) game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2017-08-31T01:01:39Z",
-            "owner": "paul-arg",
-            "repo": "brutus-game",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elememory",
-          "description": "A simple memory game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2017-12-27T15:36:16Z",
-            "owner": "Heiko-M",
-            "repo": "elememory",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Post Apoc RPG Tools",
-          "description": "Post Apocalyptic RPG Tools App",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-08-30T15:48:01Z",
-            "owner": "FriendOfEntropy",
-            "repo": "postapocrpgtools",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Image Optimizer",
-          "description": "A simple image optimizer :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-13T13:15:25Z",
-            "owner": "GijsGoudzwaard",
-            "repo": "Image-Optimizer",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Resizer",
-          "description": "Quickly resize images from the context menu :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-06-29T16:25:53Z",
-            "owner": "peteruithoven",
-            "repo": "resizer",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Iconoscope",
-          "description": "Simple icon visualizer :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-10-10T09:46:11Z",
-            "owner": "santileortiz",
-            "repo": "Iconoscope",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Memories",
-          "description": "An image viewer for managing local image files :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-09-03T10:51:32Z",
-            "owner": "artemanufrij",
-            "repo": "showmypictures",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Graphics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Torrential",
-          "description": "Download torrents in style :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-15T23:21:25Z",
-            "owner": "davidmhewitt",
-            "repo": "torrential",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Webpin",
-          "description": "A simple app to pin websites on the desktop :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-01-18T07:20:07Z",
-            "owner": "artemanufrij",
-            "repo": "webpin",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firefox elementary Theme",
-          "description": "A theme for Firefox with elementary OS appearence",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2018-07-12T08:46:52Z",
-            "owner": "harveycabaguio",
-            "repo": "firefox-elementary-theme",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Odysseus",
-          "description": "A simple and performant browser yet powerful elementary OS-style window onto the open decentralized web :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2022-06-04T07:17:02Z",
-            "owner": "alcinnz",
-            "repo": "Odysseus",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pushy",
-          "description": "Pushbullet client :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2020-04-16T04:50:14Z",
-            "owner": "harisvsulaiman",
-            "repo": "pushy",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "Internet"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cozy",
-          "description": "A modern audio book player :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-16T10:14:47Z",
-            "owner": "geigi",
-            "repo": "cozy",
-            "stars": 1210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gradio",
-          "description": "A app for finding and listening to internet radio stations",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2019-11-16T17:32:38Z",
-            "owner": "haecker-felix",
-            "repo": "Gradio",
-            "stars": 326
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reco",
-          "description": "Audio recording app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-27T23:15:48Z",
-            "owner": "ryonakano",
-            "repo": "reco",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mixer",
-          "description": "A no-frills volume mixer, with simplicity and usability at its core. :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-08-21T11:32:50Z",
-            "owner": "ChildishGiant",
-            "repo": "mixer",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tranqil",
-          "description": "Relax to soothing sounds of nature :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-10-29T09:09:11Z",
-            "owner": "nick92",
-            "repo": "tranqil",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eRadio",
-          "description": "A minimalist and powerful radio player",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-01-11T17:45:47Z",
-            "owner": "DreamDevel",
-            "repo": "eRadio",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cinema",
-          "description": "A video player for watching local video files :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-11-17T22:01:07Z",
-            "owner": "artemanufrij",
-            "repo": "playmyvideos",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ellyrics",
-          "description": "Song lyrics search application",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-03-13T22:52:02Z",
-            "owner": "mkinitcpio",
-            "repo": "ellyrics",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Karim",
-          "description": "Graphical interface for command-line tool youtube-dl",
-          "children": []
-        }
-      ],
-      "title": "Multimedia"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Planner",
-          "description": "The most intuitive project and task management tool :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-15T00:46:29Z",
-            "owner": "alainm23",
-            "repo": "planify",
-            "stars": 5588
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minder",
-          "description": "Mind-mapping application :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-20T23:25:47Z",
-            "owner": "phase1geo",
-            "repo": "Minder",
-            "stars": 1194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FeedReader",
-          "description": "Modern desktop application designed to complement existing web-based RSS accounts",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2020-05-23T14:46:24Z",
-            "owner": "jangernert",
-            "repo": "FeedReader",
-            "stars": 767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notes Up",
-          "description": "Markdown notes editor & manager :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-03-24T18:23:24Z",
-            "owner": "Philip-Scott",
-            "repo": "Notes-up",
-            "stars": 632
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spice-up",
-          "description": "Create simple and beautiful presentations on the Linux desktop :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-03-22T23:36:23Z",
-            "owner": "Philip-Scott",
-            "repo": "Spice-up",
-            "stars": 605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go For It",
-          "description": "A stylish to-do list with built-in productivity timer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-11-07T15:28:31Z",
-            "owner": "Manuel-Kehl",
-            "repo": "Go-For-It",
-            "stars": 514
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quilter",
-          "description": "Focus on your writing :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-12T02:26:38Z",
-            "owner": "lainsce",
-            "repo": "quilter",
-            "stars": 295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Agenda",
-          "description": "A simple, fast, no-nonsense to-do (task) list.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-05-20T16:13:22Z",
-            "owner": "dahenson",
-            "repo": "agenda",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spreadsheet",
-          "description": "A spreadsheet app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-06-22T22:18:05Z",
-            "owner": "elework",
-            "repo": "Spreadsheet",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Workspaces",
-          "description": "Workspaces lets you configure and quickly launch all you need to work on a project :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-02-21T08:52:58Z",
-            "owner": "DevAlien",
-            "repo": "workspaces",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hackup",
-          "description": "Read Hacker News from the desktop",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2025-06-23T21:23:06Z",
-            "owner": "mdh34",
-            "repo": "hackup",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coffee",
-          "description": "Keep up-to-date with current news and weather with Coffee",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2019-11-14T13:07:39Z",
-            "owner": "nick92",
-            "repo": "coffee",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Envelope",
-          "description": "Personal finance manager :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-08-19T14:14:58Z",
-            "owner": "cjfloss",
-            "repo": "envelope",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Luna",
-          "description": "An amazing calendar widget :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-07-06T05:31:13Z",
-            "owner": "calo001",
-            "repo": "luna",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stickies",
-          "description": "Neat sticky notes app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-11-26T15:43:29Z",
-            "owner": "aboudzz",
-            "repo": "stickies",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Date Countdown",
-          "description": "A date countdown applet :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-11-08T19:34:08Z",
-            "owner": "rickybassom",
-            "repo": "date-countdown",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OfficeWorks-Author",
-          "description": "The modern text editor",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Palaura",
-          "description": "Find any word's definition with this handy dictionary :white_check_mark:",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Timetable",
-          "description": "Plot out your own timetable for the week and organize it",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Yishu",
-          "description": "A bespoke and simple Todo.txt client :white_check_mark:",
-          "children": []
-        }
-      ],
-      "title": "Productivity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Valawarden",
-          "description": "Unofficial native Bitwarden client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-04-19T17:36:02Z",
-            "owner": "faejr",
-            "repo": "valawarden",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Locksmith",
-          "description": "A simple password generator applet :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2020-08-27T14:33:32Z",
-            "owner": "ChristopherNugent",
-            "repo": "Locksmith",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Timeshift",
-          "description": "System restore tool for Linux",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2023-05-01T16:43:48Z",
-            "owner": "teejee2008",
-            "repo": "timeshift",
-            "stars": 4763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monitor",
-          "description": "Manage processes and monitor system resources :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-15T04:32:24Z",
-            "owner": "elementary",
-            "repo": "monitor",
-            "stars": 363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Desktop Folder",
-          "description": "Bring your desktop back to life :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-11-07T14:05:24Z",
-            "owner": "spheras",
-            "repo": "desktopfolder",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wammer",
-          "description": "Jamming your WiFi network :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-05-19T18:27:03Z",
-            "owner": "RonnyDo",
-            "repo": "Wammer",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bookmark Manager",
-          "description": "Manager for your ssh configs :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-08-30T13:05:36Z",
-            "owner": "unbelievableflavour",
-            "repo": "bookmark-manager",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Formatter",
-          "description": "A simple formatter tool :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-07-16T19:23:28Z",
-            "owner": "Djaler",
-            "repo": "Formatter",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dimmer Switch",
-          "description": "Brightness Adjustment for Linux :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2021-11-16T11:21:13Z",
-            "owner": "panosx2",
-            "repo": "brightness",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Configurator",
-          "description": "Stylish dconf editor",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2017-07-24T20:50:19Z",
-            "owner": "cassidyjames",
-            "repo": "configurator",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Repositories Manager",
-          "description": "Manage your repositories",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2019-01-18T19:29:56Z",
-            "owner": "unbelievableflavour",
-            "repo": "repositories-manager",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Repo",
-          "description": "Manage your system's Personal Package Archives (PPA) repository sources :white_check_mark:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2018-02-12T12:55:06Z",
-            "owner": "chances",
-            "repo": "repo",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "System Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "elementaryPlus",
-          "description": "elementaryPlus is a community maintained addition to elementary OS's default icon theme",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-02T16:29:18Z",
-            "owner": "Manuel-Kehl",
-            "repo": "elementaryPlus",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elementary X",
-          "description": "Original elementary theme with some tweaks and OS X window controls",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2023-02-05T17:12:29Z",
-            "owner": "surajmandalcell",
-            "repo": "elementary-x",
-            "stars": 297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uratau Icons",
-          "description": "The most complete icon package for third-party applications with elementary OS design",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-11-02T09:12:09Z",
-            "owner": "btd1337",
-            "repo": "urutau-icons",
-            "stars": 115
-          }
-        }
-      ],
-      "title": "Theming"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1565,6 +1607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154726476,
             "language": "Vala",
             "last_commit": "2021-11-21T16:03:16Z",
             "owner": "donadigo",
@@ -1579,6 +1622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123712712,
             "language": "Vala",
             "last_commit": "2020-03-27T20:15:45Z",
             "owner": "PlugaruT",
@@ -1593,6 +1637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118437934,
             "language": "Vala",
             "last_commit": "2018-06-28T18:50:57Z",
             "owner": "gandalfn",
@@ -1607,6 +1652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123737995,
             "language": "Vala",
             "last_commit": "2025-10-18T13:41:29Z",
             "owner": "ellie-commons",
@@ -1621,6 +1667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96401509,
             "language": "CMake",
             "last_commit": "2018-04-25T00:53:49Z",
             "owner": "kunalkushwaha",
@@ -1635,6 +1682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128890187,
             "language": "Vala",
             "last_commit": "2018-07-08T09:17:33Z",
             "owner": "alainm23",
@@ -1649,6 +1697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140868106,
             "language": "Vala",
             "last_commit": "2018-07-14T22:10:28Z",
             "owner": "phalbert",
@@ -1660,12 +1709,7 @@
       "title": "Wingpanel Indicators"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Aplication Development"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1674,6 +1718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62554130,
             "language": "Shell",
             "last_commit": "2017-03-06T05:33:13Z",
             "owner": "erikdubois",
@@ -1688,6 +1733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160569478,
             "language": "Shell",
             "last_commit": "2019-07-01T03:38:37Z",
             "owner": "btd1337",
@@ -1702,6 +1748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80884810,
             "language": "JavaScript",
             "last_commit": "2017-06-07T22:43:40Z",
             "owner": "tonietto",
@@ -1711,21 +1758,12 @@
         }
       ],
       "title": "Configuration Guides"
-    },
-    {
-      "description": "Contributions are most welcome.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "The MIT License (MIT)",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:50:41.923Z",
+    "last_updated": "2026-08-19T12:25:31.509Z",
     "original_repository": "kleinrein/awesome-elementaryos",
+    "original_repository_id": 81117723,
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
     "enhanced_repository_description": null,
