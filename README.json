@@ -727,7 +727,7 @@
                 "last_commit": "2025-04-13T15:01:45Z",
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2828
+                "stars": 2829
               }
             },
             {
@@ -839,7 +839,7 @@
                 "last_commit": "2026-08-13T13:15:25Z",
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
-                "stars": 86
+                "stars": 85
               }
             },
             {
@@ -1115,7 +1115,7 @@
                 "last_commit": "2026-08-15T00:46:29Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5592
+                "stars": 5594
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "last_commit": "2026-07-20T23:25:47Z",
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1194
+                "stars": 1195
               }
             },
             {
@@ -1761,7 +1761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:51:27.509Z",
+    "last_updated": "2026-08-20T13:53:29.390Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_id": 81117723,
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",

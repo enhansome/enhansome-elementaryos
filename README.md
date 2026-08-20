@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 497,686 | 🐛 102 | 📅 2026-08-18
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 498,075 | 🐛 105 | 📅 2026-08-18
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -132,7 +132,7 @@
 
 ### Graphics
 
-* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 86 | 🐛 4 | 🌐 Vala | 📅 2026-08-13 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
+* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 85 | 🐛 4 | 🌐 Vala | 📅 2026-08-13 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
 * [Resizer](https://github.com/peteruithoven/resizer) ⭐ 15 | 🐛 6 | 🌐 Vala | 📅 2022-06-29 - Quickly resize images from the context menu [:white\_check\_mark:](https://appcenter.elementary.io/com.github.peteruithoven.resizer)
 * [Iconoscope](https://github.com/santileortiz/Iconoscope) ⭐ 14 | 🐛 5 | 🌐 C | 📅 2021-10-10 - Simple icon visualizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.santileortiz.iconoscope)
 * [Memories](https://github.com/artemanufrij/showmypictures) ⭐ 14 | 🐛 8 | 🌐 Vala | 📅 2020-09-03 - An image viewer for managing local image files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,592 | 🐛 164 | 🌐 Vala | 📅 2026-08-15 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,594 | 🐛 165 | 🌐 Vala | 📅 2026-08-15 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,195 | 🐛 51 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 51 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
