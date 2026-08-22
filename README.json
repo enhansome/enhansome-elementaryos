@@ -1112,10 +1112,10 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-21T01:40:57Z",
+                "last_commit": "2026-08-22T01:59:26Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5597
+                "stars": 5598
               }
             },
             {
@@ -1205,7 +1205,7 @@
                 "last_commit": "2026-08-12T02:26:38Z",
                 "owner": "lainsce",
                 "repo": "quilter",
-                "stars": 295
+                "stars": 296
               }
             },
             {
@@ -1761,7 +1761,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:52:21.715Z",
+    "last_updated": "2026-08-22T13:38:52.671Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_id": 81117723,
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
