@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-13T08:51:27Z",
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1385
+                "stars": 1386
               }
             },
             {
@@ -309,6 +309,28 @@
           "description": null,
           "node_type": "group",
           "title": "Accessories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Relay",
+              "description": "An IRC client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37111714,
+                "language": "Vala",
+                "last_commit": "2019-07-30T18:11:18Z",
+                "owner": "agronick",
+                "repo": "Relay",
+                "stars": 86
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chat"
         },
         {
           "children": [
@@ -1115,7 +1137,7 @@
                 "last_commit": "2026-08-23T05:13:57Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5603
+                "stars": 5614
               }
             },
             {
@@ -1130,7 +1152,7 @@
                 "last_commit": "2026-07-20T23:25:47Z",
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1195
+                "stars": 1194
               }
             },
             {
@@ -1352,6 +1374,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Elements",
+              "description": "A periodic table :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 227671241,
+                "language": "Vala",
+                "last_commit": "2020-08-25T17:09:45Z",
+                "owner": "eudaldgr",
+                "repo": "elements",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Science"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dropbox for elementary OS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33096516,
+                "language": "Shell",
+                "last_commit": "2016-09-14T15:31:54Z",
+                "owner": "hectorm",
+                "repo": "elementary-dropbox",
+                "stars": 434
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sharing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Valawarden",
               "description": "Unofficial native Bitwarden client",
               "children": [],
@@ -1384,6 +1450,28 @@
           "description": null,
           "node_type": "group",
           "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Birdie",
+              "description": "Birdie is a beautiful & fast Twitter client",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10421527,
+                "language": "Vala",
+                "last_commit": "2022-04-30T17:29:46Z",
+                "owner": "ivonunes",
+                "repo": "birdie",
+                "stars": 277
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social"
         },
         {
           "children": [
@@ -1541,6 +1629,28 @@
           "description": null,
           "node_type": "group",
           "title": "System Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wallpaperize",
+              "description": "Beautify your oddly-sized wallpapers :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45369913,
+                "language": "Vala",
+                "last_commit": "2022-10-14T12:43:29Z",
+                "owner": "Philip-Scott",
+                "repo": "wallpaperize",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         },
         {
           "children": [
@@ -1713,6 +1823,55 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Bing Wallpaper Plug",
+          "description": "A plug to get wallpapers from bing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120076678,
+            "language": "Vala",
+            "last_commit": "2018-02-03T09:22:58Z",
+            "owner": "FranRodriguez",
+            "repo": "switchboard-plug-bing-wallpaper",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Switchboard Plugs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elementary OS devbook",
+              "description": "A guide to design and build your app for elementary OS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62833100,
+                "language": null,
+                "last_commit": "2018-08-17T08:59:57Z",
+                "owner": "aberba",
+                "repo": "elementaryOS-devbook",
+                "stars": 60
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Third party"
+        }
+      ],
+      "title": "Aplication Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Ultimate-elementary-os",
           "description": "Easy installation of software after clean install",
           "children": [],
@@ -1761,7 +1920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:39:36.322Z",
+    "last_updated": "2026-08-24T14:07:13.417Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_id": 81117723,
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
