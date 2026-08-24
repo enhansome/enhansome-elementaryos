@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,614 | 🐛 165 | 🌐 Vala | 📅 2026-08-23 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,614 | 🐛 164 | 🌐 Vala | 📅 2026-08-24 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
