@@ -413,7 +413,7 @@
                 "last_commit": "2026-05-13T08:04:39Z",
                 "owner": "vala-lang",
                 "repo": "vala-lint",
-                "stars": 100
+                "stars": 101
               }
             },
             {
@@ -1134,10 +1134,10 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-24T14:24:34Z",
+                "last_commit": "2026-08-25T02:24:02Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5614
+                "stars": 5617
               }
             },
             {
@@ -1152,7 +1152,7 @@
                 "last_commit": "2026-07-20T23:25:47Z",
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1194
+                "stars": 1195
               }
             },
             {
@@ -1499,7 +1499,7 @@
                 "archived": false,
                 "id": 98550935,
                 "language": "Vala",
-                "last_commit": "2026-08-15T04:32:24Z",
+                "last_commit": "2026-08-25T03:39:00Z",
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 363
@@ -1612,7 +1612,7 @@
             },
             {
               "node_type": "item",
-              "title": "Repo",
+              "title": "chances/repo",
               "description": "Manage your system's Personal Package Archives (PPA) repository sources :white_check_mark:",
               "children": [],
               "repo_info": {
@@ -1920,7 +1920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:24.842Z",
+    "last_updated": "2026-08-25T06:25:33.110Z",
     "original_repository": "kleinrein/awesome-elementaryos",
     "original_repository_id": 81117723,
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
