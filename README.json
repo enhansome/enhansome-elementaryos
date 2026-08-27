@@ -1134,10 +1134,10 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-26T01:50:10Z",
+                "last_commit": "2026-08-26T22:34:11Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5616
+                "stars": 5620
               }
             },
             {
@@ -1487,7 +1487,7 @@
                 "last_commit": "2023-05-01T16:43:48Z",
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4763
+                "stars": 4762
               }
             },
             {
@@ -1920,9 +1920,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:59:43.348Z",
-    "original_repository": "kleinrein/awesome-elementaryos",
-    "original_repository_id": 81117723,
+    "last_updated": "2026-08-27T11:37:19.554Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 81117723,
+      "language": null,
+      "last_commit": "2021-08-17T20:20:29Z",
+      "owner": "kleinrein",
+      "repo": "awesome-elementaryos",
+      "stars": 213
+    },
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
     "enhanced_repository_description": null,
