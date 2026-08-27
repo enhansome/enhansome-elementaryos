@@ -1134,10 +1134,10 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-26T22:34:11Z",
+                "last_commit": "2026-08-27T22:53:10Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5620
+                "stars": 5625
               }
             },
             {
@@ -1152,7 +1152,7 @@
                 "last_commit": "2026-07-20T23:25:47Z",
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1195
+                "stars": 1196
               }
             },
             {
@@ -1920,7 +1920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:19.554Z",
+    "last_updated": "2026-08-27T22:55:13.316Z",
     "original_repository_info": {
       "archived": false,
       "id": 81117723,
