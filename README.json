@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple ebook reader for Elementary OS",
+                "homepage": null,
                 "id": 80118937,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-13T08:51:27Z",
+                "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1386
+                "stars": 1386,
+                "topics": [
+                  "bookworm",
+                  "ebook-reader",
+                  "elementaryos",
+                  "epub"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown editor",
+                "homepage": null,
                 "id": 28447230,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2021-01-18T13:00:19Z",
+                "open_issues": 31,
                 "owner": "voldyman",
                 "repo": "MarkMyWords",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A debian package installer for elementary OS",
+                "homepage": null,
                 "id": 57064608,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-07T15:02:22Z",
+                "open_issues": 29,
                 "owner": "donadigo",
                 "repo": "eddy",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clipboard Manager for elementary OS",
+                "homepage": null,
                 "id": 97155130,
                 "language": "Vala",
+                "license": "GPL-2.0",
                 "last_commit": "2021-08-31T16:14:02Z",
+                "open_issues": 32,
                 "owner": "davidmhewitt",
                 "repo": "clipped",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -76,12 +101,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal weather applet",
+                "homepage": null,
                 "id": 89729019,
                 "language": "Vala",
+                "license": "GPL-2.0",
                 "last_commit": "2024-09-05T19:35:09Z",
+                "open_issues": 14,
                 "owner": "danirabbit",
                 "repo": "nimbus",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "gweather"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -92,12 +124,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 97341122,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-10-25T06:56:24Z",
+                "open_issues": 18,
                 "owner": "artemanufrij",
                 "repo": "imageburner",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "bootable",
+                  "burn",
+                  "flash",
+                  "iso",
+                  "linux",
+                  "usb",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -108,12 +153,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 98567245,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-11-17T14:27:31Z",
+                "open_issues": 20,
                 "owner": "artemanufrij",
                 "repo": "screencast",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "linux",
+                  "screencast",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -124,12 +178,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Philips Hue controller for Linux [WIP] ",
+                "homepage": null,
                 "id": 115459101,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-23T19:59:19Z",
+                "open_issues": 5,
                 "owner": "Philip-Scott",
                 "repo": "Lights-Up",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "gtk3",
+                  "linux-app",
+                  "philips-hue-lighting"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -140,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fork of https://launchpad.net/writer",
+                "homepage": null,
                 "id": 151196858,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-29T14:38:31Z",
+                "open_issues": 23,
                 "owner": "ryonakano",
                 "repo": "writer",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -156,12 +224,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple application for encoding and decoding text",
+                "homepage": null,
                 "id": 112231563,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-18T16:25:21Z",
+                "open_issues": 9,
                 "owner": "arshubham",
                 "repo": "cipher",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "cipher",
+                  "ciphers",
+                  "decoding",
+                  "elementary",
+                  "elementaryos",
+                  "encoding"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -172,12 +252,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translator for Elementary OS",
+                "homepage": null,
                 "id": 92586223,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2021-03-25T17:17:26Z",
+                "open_issues": 19,
                 "owner": "RapidFingers",
                 "repo": "Translator",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "desktop-app",
+                  "dictionary",
+                  "elementaryos",
+                  "linux",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -188,12 +279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate tea timer",
+                "homepage": null,
                 "id": 109014867,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-07-23T21:35:50Z",
+                "open_issues": 7,
                 "owner": "parnoldx",
                 "repo": "timer",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -204,12 +300,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 100030924,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-08-26T12:00:12Z",
+                "open_issues": 3,
                 "owner": "artemanufrij",
                 "repo": "hashit",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "checksum",
+                  "md5",
+                  "sha1",
+                  "sha128",
+                  "sha256"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -220,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": null,
                 "id": 124539409,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2019-08-04T11:08:50Z",
+                "open_issues": 11,
                 "owner": "artemanufrij",
                 "repo": "trimdown",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -236,12 +348,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A random name chooser for vala",
+                "homepage": null,
                 "id": 106823253,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-30T13:06:22Z",
+                "open_issues": 2,
                 "owner": "unbelievableflavour",
                 "repo": "lottery",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -252,12 +371,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 102906685,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-10-25T07:04:34Z",
+                "open_issues": 2,
                 "owner": "artemanufrij",
                 "repo": "translit",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "cyrillic",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -268,12 +395,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Linux app to browse the Nova Reta Vortaro",
+                "homepage": null,
                 "id": 124756374,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2018-03-11T15:50:49Z",
+                "open_issues": 0,
                 "owner": "nova-reta-vortaro",
                 "repo": "nrv-gtk",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "eo",
+                  "esperanto",
+                  "flatpak",
+                  "glib",
+                  "gnu-linux",
+                  "granite",
+                  "gtk",
+                  "gtk-3",
+                  "libsoup",
+                  "linux",
+                  "meson",
+                  "native-linux-app",
+                  "nova-reta-vortaro",
+                  "nrv",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -284,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USDA Food Composition Database searcher for elementary OS.",
+                "homepage": null,
                 "id": 121439115,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2018-02-13T22:26:13Z",
+                "open_issues": 0,
                 "owner": "AnderRasoVazquez",
                 "repo": "nutrition",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -300,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A forecast application using OpenWeatherMap API",
+                "homepage": null,
                 "id": 112911601,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2018-09-09T09:07:54Z",
+                "open_issues": 0,
                 "owner": "camellan",
                 "repo": "weather",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -316,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Show 4 digit random numbers on button click. Implemented in vala for elementary os.",
+                "homepage": null,
                 "id": 135300724,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2018-06-01T06:13:40Z",
+                "open_issues": 0,
                 "owner": "ibraheem-moosa",
                 "repo": "neumann",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -339,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An IRC client designed for elementary OS",
+                "homepage": "https://poisonpacket.wordpress.com/relay/",
                 "id": 37111714,
                 "language": "Vala",
+                "license": "GPL-2.0",
                 "last_commit": "2019-07-30T18:11:18Z",
+                "open_issues": 21,
                 "owner": "agronick",
                 "repo": "Relay",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -362,12 +530,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "elementary OS customization tool",
+                "homepage": null,
                 "id": 53800603,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-17T01:03:43Z",
+                "open_issues": 11,
                 "owner": "elementary-tweaks",
                 "repo": "elementary-tweaks",
-                "stars": 601
+                "stars": 601,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -378,12 +551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edit application menu",
+                "homepage": null,
                 "id": 100415189,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-08T13:44:55Z",
+                "open_issues": 45,
                 "owner": "donadigo",
                 "repo": "appeditor",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -401,12 +579,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Client built in Vala",
+                "homepage": null,
                 "id": 99072637,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-03T11:01:33Z",
+                "open_issues": 68,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
-                "stars": 841
+                "stars": 841,
+                "topics": [
+                  "appcenter",
+                  "debian",
+                  "flathub",
+                  "flatpak",
+                  "gtk3",
+                  "hacktoberfest",
+                  "meson",
+                  "sql-client",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -417,12 +610,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "quickly read developer documentation",
+                "homepage": null,
                 "id": 115626821,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-23T21:19:53Z",
+                "open_issues": 15,
                 "owner": "mdh34",
                 "repo": "quickDocs",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "devdocs",
+                  "devhelp",
+                  "elementary",
+                  "quickdocs",
+                  "valadoc"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -433,12 +637,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check code-style of Vala code files",
+                "homepage": null,
                 "id": 70204293,
                 "language": "Vala",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-13T08:04:39Z",
+                "open_issues": 40,
                 "owner": "vala-lang",
                 "repo": "vala-lint",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -449,12 +660,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial elementary OS (Vala) oriented IDE.",
+                "homepage": null,
                 "id": 69891193,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2017-08-29T12:56:42Z",
+                "open_issues": 12,
                 "owner": "donadigo",
                 "repo": "elementary-ide",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "elementaryos",
+                  "ide",
+                  "integrated-development-environment",
+                  "loki",
+                  "programming",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -465,12 +688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG.",
+                "homepage": null,
                 "id": 116067859,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-12T17:07:57Z",
+                "open_issues": 0,
                 "owner": "micahilbery",
                 "repo": "elementary-icon-templates",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -481,12 +709,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 100425769,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2023-02-28T15:18:02Z",
+                "open_issues": 18,
                 "owner": "artemanufrij",
                 "repo": "regextester",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "regex",
+                  "tester",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -497,12 +734,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple tool to help elementary OS developers to develop their own apps and widgets.",
+                "homepage": "https://github.com/alcadica/develop",
                 "id": 133402235,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-01-11T08:21:06Z",
+                "open_issues": 6,
                 "owner": "alcadica",
                 "repo": "develop",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "appcenter",
+                  "elementary-apps",
+                  "elementary-os",
+                  "elementaryos",
+                  "translator",
+                  "vala",
+                  "widget",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -513,12 +764,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A snap installer for Elementary OS",
+                "homepage": null,
                 "id": 119510942,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-30T13:05:08Z",
+                "open_issues": 7,
                 "owner": "unbelievableflavour",
                 "repo": "snaptastic",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "installer",
+                  "snap",
+                  "snapcraft",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -529,12 +790,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simplify your commands",
+                "homepage": null,
                 "id": 121627558,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-30T13:06:31Z",
+                "open_issues": 5,
                 "owner": "unbelievableflavour",
                 "repo": "alias",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "aliases",
+                  "elementary-os",
+                  "granite",
+                  "shortcuts",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -545,12 +817,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Run your PHP scribbles",
+                "homepage": null,
                 "id": 106010547,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-30T13:04:16Z",
+                "open_issues": 4,
                 "owner": "unbelievableflavour",
                 "repo": "php-tester",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "code",
+                  "development",
+                  "elementary",
+                  "php",
+                  "scribble",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -561,12 +845,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hammer: Dependency Manager for Vala :construction: App under development!",
+                "homepage": null,
                 "id": 117998313,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2021-09-25T13:30:54Z",
+                "open_issues": 4,
                 "owner": "vanat",
                 "repo": "vanat",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "dependency-manager",
+                  "meson",
+                  "package-manager",
+                  "packages",
+                  "vala",
+                  "vanat"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -577,12 +873,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Know when your websites are misbehaving!",
+                "homepage": null,
                 "id": 131940603,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2018-11-10T09:00:31Z",
+                "open_issues": 13,
                 "owner": "kjlaw89",
                 "repo": "webwatcher",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "elementaryos",
+                  "linux",
+                  "monitoring",
+                  "performance",
+                  "security",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -593,12 +901,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GUI for the command line valac. ",
+                "homepage": null,
                 "id": 109184703,
                 "language": "Vala",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-25T07:06:29Z",
+                "open_issues": 8,
                 "owner": "basjam",
                 "repo": "ValaCompiler",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "gui",
+                  "valac"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -609,12 +925,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "http://anufrij.org",
                 "id": 127177241,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-11-17T22:18:56Z",
+                "open_issues": 5,
                 "owner": "artemanufrij",
                 "repo": "findfileconflicts",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "conflict",
+                  "duplicates",
+                  "linux",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -632,12 +958,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Linux App for UI and UX Design built in Vala and GTK",
+                "homepage": null,
                 "id": 91653269,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-30T23:56:04Z",
+                "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337
+                "stars": 5337,
+                "topics": [
+                  "appcenter",
+                  "design",
+                  "gtk",
+                  "hacktoberfest",
+                  "linux",
+                  "ui",
+                  "ux",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -648,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A color picker for elementaryOS.",
+                "homepage": null,
                 "id": 92343084,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-07T14:30:06Z",
+                "open_issues": 32,
                 "owner": "RonnyDo",
                 "repo": "ColorPicker",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -664,12 +1009,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Calculate display info like DPI and aspect ratio",
+                "homepage": "https://cassidyjames.com/dippi",
                 "id": 116722712,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-08T02:22:44Z",
+                "open_issues": 11,
                 "owner": "cassidyjames",
                 "repo": "dippi",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "adwaita",
+                  "displays",
+                  "dpi",
+                  "flatpak",
+                  "gnome",
+                  "gtk",
+                  "gtk4",
+                  "hacktoberfest",
+                  "libadwaita",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -680,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The hero that Gotham needs right now",
+                "homepage": null,
                 "id": 92607918,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-29T20:09:01Z",
+                "open_issues": 6,
                 "owner": "danirabbit",
                 "repo": "harvey",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -696,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Browse and find system icons",
+                "homepage": null,
                 "id": 94148654,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-07-30T00:03:13Z",
+                "open_issues": 4,
                 "owner": "danirabbit",
                 "repo": "lookbook",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -712,12 +1084,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Remember Dieter Rams' ten principles of good design",
+                "homepage": "https://cassidyjames.com",
                 "id": 134122464,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-26T17:01:21Z",
+                "open_issues": 7,
                 "owner": "cassidyjames",
                 "repo": "principles",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "design",
+                  "gtk",
+                  "gtk3",
+                  "hacktoberfest",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -728,12 +1112,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Color palette app for elementary OS",
+                "homepage": "https://cassidyjames.com",
                 "id": 128563182,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-10T00:36:05Z",
+                "open_issues": 5,
                 "owner": "cassidyjames",
                 "repo": "palette",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "appcenter",
+                  "color",
+                  "elementary",
+                  "elementaryos",
+                  "gtk",
+                  "gtk3",
+                  "hacktoberfest",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -744,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A colour palette tool for elementary OS",
+                "homepage": null,
                 "id": 94773263,
                 "language": "CMake",
+                "license": "ISC",
                 "last_commit": "2018-07-18T16:08:36Z",
+                "open_issues": 5,
                 "owner": "patkaiist",
                 "repo": "swatches",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -767,12 +1171,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Themes for Nylas N1 desktop email client intented to make it more friendly for elementary OS",
+                "homepage": null,
                 "id": 49837265,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2016-04-16T02:17:24Z",
+                "open_issues": 1,
                 "owner": "edipox",
                 "repo": "elementary-nylas",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "elementary",
+                  "nylas",
+                  "nylas-mail",
+                  "nylas-n1",
+                  "theme",
+                  "themes"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -790,12 +1206,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "All your games in one place",
+                "homepage": "https://tkashkin.github.io/projects/gamehub",
                 "id": 135071605,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-13T15:01:45Z",
+                "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2830
+                "stars": 2830,
+                "topics": [
+                  "elementary",
+                  "elementary-apps",
+                  "elementary-community",
+                  "game-launcher",
+                  "game-library",
+                  "gog",
+                  "gog-games",
+                  "gtk",
+                  "gtk3",
+                  "humble-bundle",
+                  "humblebundle",
+                  "steam",
+                  "steam-games",
+                  "steam-library",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -806,12 +1243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nonograms puzzle game written in Vala.",
+                "homepage": null,
                 "id": 115516721,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-12T17:17:17Z",
+                "open_issues": 4,
                 "owner": "jeremypw",
                 "repo": "gnonograms",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -822,12 +1264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mupen64plus frontend designed based on Elementary OS guidelines.",
+                "homepage": null,
                 "id": 142643068,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-02T05:36:45Z",
+                "open_issues": 4,
                 "owner": "EFDos",
                 "repo": "mupengui",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -838,12 +1285,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sudoku game for elementary OS",
+                "homepage": null,
                 "id": 107866919,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-09T10:19:17Z",
+                "open_issues": 8,
                 "owner": "parnoldx",
                 "repo": "sudoku",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "game",
+                  "sudoku"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -854,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 56188417,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2017-08-31T01:01:39Z",
+                "open_issues": 0,
                 "owner": "paul-arg",
                 "repo": "brutus-game",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -870,12 +1330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple memory game for elementary OS",
+                "homepage": null,
                 "id": 80953708,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2017-12-27T15:36:16Z",
+                "open_issues": 1,
                 "owner": "Heiko-M",
                 "repo": "elememory",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -886,12 +1351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Post Apocalyptic RPG Tools App For Elementary OS",
+                "homepage": null,
                 "id": 146046445,
                 "language": "Vala",
+                "license": "LGPL-3.0",
                 "last_commit": "2018-08-30T15:48:01Z",
+                "open_issues": 0,
                 "owner": "FriendOfEntropy",
                 "repo": "postapocrpgtools",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -909,12 +1379,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shrink PNG and JPEG images losslessly. Available for any Linux distribution on Flathub and the Snap Store.",
+                "homepage": null,
                 "id": 97706352,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2026-08-13T13:15:25Z",
+                "open_issues": 4,
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "compression",
+                  "elementary-apps",
+                  "elementary-os",
+                  "flathub",
+                  "image",
+                  "image-optimization",
+                  "image-optimizer",
+                  "linux",
+                  "snapcraft",
+                  "ubuntu"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -925,12 +1411,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quick image resizer app for elementary OS",
+                "homepage": "https://appcenter.elementary.io/com.github.peteruithoven.resizer/",
                 "id": 118376664,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-29T16:25:53Z",
+                "open_issues": 6,
                 "owner": "peteruithoven",
                 "repo": "resizer",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "elementaryos",
+                  "gtk3",
+                  "hacktoberfest",
+                  "imagemagick",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -941,12 +1439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore the system's icon theme database",
+                "homepage": null,
                 "id": 124003190,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-10T09:46:11Z",
+                "open_issues": 5,
                 "owner": "santileortiz",
                 "repo": "Iconoscope",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -957,12 +1460,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 115890577,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-09-03T10:51:32Z",
+                "open_issues": 8,
                 "owner": "artemanufrij",
                 "repo": "showmypictures",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "image",
+                  "linux",
+                  "manager",
+                  "photos",
+                  "pictures",
+                  "vala",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -980,12 +1496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple torrent client for elementary OS",
+                "homepage": null,
                 "id": 93779973,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-07-15T23:21:25Z",
+                "open_issues": 46,
                 "owner": "davidmhewitt",
                 "repo": "torrential",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -996,12 +1517,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 98917568,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2022-01-18T07:20:07Z",
+                "open_issues": 59,
                 "owner": "artemanufrij",
                 "repo": "webpin",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "vala",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1012,12 +1541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 137925534,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2018-07-12T08:46:52Z",
+                "open_issues": 18,
                 "owner": "harveycabaguio",
                 "repo": "firefox-elementary-theme",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1028,12 +1562,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bridging the elementary OS and Web user experiences",
+                "homepage": "https://odysseus.adrian.geek.nz",
                 "id": 72978075,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-04T07:17:02Z",
+                "open_issues": 50,
                 "owner": "alcinnz",
                 "repo": "Odysseus",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "browser",
+                  "elementaryos",
+                  "gtk",
+                  "webkit"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1044,12 +1588,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Pushbullet client for elementary os.",
+                "homepage": null,
                 "id": 101583763,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-04-16T04:50:14Z",
+                "open_issues": 13,
                 "owner": "harisvsulaiman",
                 "repo": "pushy",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "dbus",
+                  "desktop-app",
+                  "elementaryos",
+                  "gtk3",
+                  "linux",
+                  "nodejs",
+                  "pushbullet",
+                  "valadoc"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1067,12 +1625,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎧 Listen to audio books 📚 on Linux",
+                "homepage": "https://cozy.sh",
                 "id": 97223405,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-16T10:14:47Z",
+                "open_issues": 111,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1210
+                "stars": 1210,
+                "topics": [
+                  "archlinux",
+                  "audio-book",
+                  "audiobooks",
+                  "debian",
+                  "elementaryos",
+                  "fedora",
+                  "flatpak",
+                  "gnome",
+                  "gtk4",
+                  "linux",
+                  "media-player",
+                  "opensuse",
+                  "ubuntu"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1083,12 +1660,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 58459896,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-16T17:32:38Z",
+                "open_issues": 47,
                 "owner": "haecker-felix",
                 "repo": "Gradio",
-                "stars": 326
+                "stars": 326,
+                "topics": [
+                  "discovery",
+                  "flatpak",
+                  "gnome",
+                  "gradio",
+                  "gtk",
+                  "gtk3",
+                  "internet-radio-stations",
+                  "nightly-build",
+                  "radio-station",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1099,12 +1692,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An audio recorder focused on being concise and simple to use",
+                "homepage": "https://flathub.org/apps/com.github.ryonakano.reco",
                 "id": 156989873,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-27T23:15:48Z",
+                "open_issues": 41,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "audio-recorder",
+                  "elementaryos",
+                  "flathub",
+                  "flatpak",
+                  "gnome",
+                  "gstreamer",
+                  "gtk",
+                  "meson",
+                  "pantheon",
+                  "sound-record",
+                  "vala",
+                  "voice-recording"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1115,12 +1726,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple volume mixer for elementary OS.",
+                "homepage": null,
                 "id": 380015685,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-21T11:32:50Z",
+                "open_issues": 8,
                 "owner": "ChildishGiant",
                 "repo": "mixer",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "elementary",
+                  "elementary-apps",
+                  "elementary-os",
+                  "elementaryos",
+                  "gtk3",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1131,12 +1754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relax to soothing sounds of nature",
+                "homepage": null,
                 "id": 85604692,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2022-10-29T09:09:11Z",
+                "open_issues": 13,
                 "owner": "nick92",
                 "repo": "tranqil",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1147,12 +1775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalist and powerful radio player for elementary OS Loki",
+                "homepage": null,
                 "id": 24555275,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-01-11T17:45:47Z",
+                "open_issues": 12,
                 "owner": "DreamDevel",
                 "repo": "eRadio",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1163,12 +1796,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "http://anufrij.org/cinema",
                 "id": 108672696,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2020-11-17T22:01:07Z",
+                "open_issues": 17,
                 "owner": "artemanufrij",
                 "repo": "playmyvideos",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "linux",
+                  "player",
+                  "vala",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1179,12 +1822,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Song lyrics search application designed for elementary OS",
+                "homepage": null,
                 "id": 124781990,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2018-03-13T22:52:02Z",
+                "open_issues": 0,
                 "owner": "mkinitcpio",
                 "repo": "ellyrics",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "elementary-community",
+                  "elementaryos",
+                  "vala",
+                  "vala-applications"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1202,12 +1855,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+                "homepage": "https://useplanify.com",
                 "id": 154173536,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T01:47:46Z",
+                "open_issues": 166,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5630
+                "stars": 5631,
+                "topics": [
+                  "caldav",
+                  "gtd",
+                  "libadwaita",
+                  "nextcloud",
+                  "productivity",
+                  "task-manager",
+                  "to-do-list",
+                  "todo",
+                  "todo-app",
+                  "todo-list",
+                  "todoapp",
+                  "todoist",
+                  "todoist-api",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1218,12 +1891,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mind-mapping application for Elementary OS",
+                "homepage": null,
                 "id": 115215556,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T23:25:47Z",
+                "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1197
+                "stars": 1197,
+                "topics": [
+                  "markdown",
+                  "mindmap",
+                  "pdf"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1234,12 +1916,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Modern desktop application designed to complement existing web-based RSS accounts.",
+                "homepage": "http://jangernert.github.io/FeedReader/",
                 "id": 41181220,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-05-23T14:46:24Z",
+                "open_issues": 115,
                 "owner": "jangernert",
                 "repo": "FeedReader",
-                "stars": 768
+                "stars": 768,
+                "topics": [
+                  "feed-reader",
+                  "flatpak-bundle",
+                  "gnome",
+                  "rss"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1250,12 +1942,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown notes editor & manager",
+                "homepage": null,
                 "id": 44445638,
                 "language": "Vala",
+                "license": "GPL-2.0",
                 "last_commit": "2022-03-24T18:23:24Z",
+                "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 632
+                "stars": 632,
+                "topics": [
+                  "elementaryos",
+                  "linux",
+                  "markdown",
+                  "notes",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1266,12 +1969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Presentations App for the modern Linux Desktop",
+                "homepage": null,
                 "id": 67453554,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-22T23:36:23Z",
+                "open_issues": 53,
                 "owner": "Philip-Scott",
                 "repo": "Spice-up",
-                "stars": 604
+                "stars": 604,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1282,12 +1990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stylish to-do list with built-in productivity timer. NOTE: all contributions should go to Jonathan Moerman's fork because this is where active development is taking place: https://github.com/JMoerman/Go-For-It",
+                "homepage": "http://manuel-kehl.de/projects/go-for-it/",
                 "id": 28086763,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-07T15:28:31Z",
+                "open_issues": 21,
                 "owner": "Manuel-Kehl",
                 "repo": "Go-For-It",
-                "stars": 514
+                "stars": 514,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1298,12 +2011,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Focus on your writing.",
+                "homepage": null,
                 "id": 93226561,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T02:26:38Z",
+                "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "quilter",
-                "stars": 296
+                "stars": 296,
+                "topics": [
+                  "focus",
+                  "linux",
+                  "markdown-editor",
+                  "minimalistic",
+                  "nanowrimo",
+                  "writing-application"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1314,12 +2039,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, fast, no-nonsense to-do (task) list.",
+                "homepage": null,
                 "id": 91588287,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-20T16:13:22Z",
+                "open_issues": 16,
                 "owner": "dahenson",
                 "repo": "agenda",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "appcenter",
+                  "elementaryos",
+                  "gtk3",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1330,12 +2065,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A spreadsheet app designed for elementary OS",
+                "homepage": null,
                 "id": 89137555,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2026-06-22T22:18:05Z",
+                "open_issues": 25,
                 "owner": "elework",
                 "repo": "Spreadsheet",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "elementaryos",
+                  "gtk",
+                  "meson",
+                  "office",
+                  "pantheon",
+                  "spreadsheet",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1346,12 +2094,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Workspaces app for linux elementaryos gtk",
+                "homepage": null,
                 "id": 286719496,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-21T08:52:58Z",
+                "open_issues": 24,
                 "owner": "DevAlien",
                 "repo": "workspaces",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "appcenter",
+                  "elementary",
+                  "elementary-apps",
+                  "gtk",
+                  "vala",
+                  "workspaces"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1362,12 +2122,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Read Hacker News from the desktop",
+                "homepage": null,
                 "id": 133841153,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-23T21:23:06Z",
+                "open_issues": 10,
                 "owner": "mdh34",
                 "repo": "hackup",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "elementaryos",
+                  "hackernews",
+                  "hn",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1378,12 +2148,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a news and weather feed for Linux",
+                "homepage": "https://nick92.github.io/coffee/",
                 "id": 104494601,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-14T13:07:39Z",
+                "open_issues": 14,
                 "owner": "nick92",
                 "repo": "coffee",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "meson",
+                  "news",
+                  "vala",
+                  "weather"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1394,12 +2174,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal finance manager for elementary OS",
+                "homepage": "https://cjfloss.github.io/envelope/",
                 "id": 117781304,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-19T14:14:58Z",
+                "open_issues": 22,
                 "owner": "cjfloss",
                 "repo": "envelope",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "budget-manager",
+                  "elementary-os",
+                  "envelope-app",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1410,12 +2200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📆 Calendar Widget for Linux desktop",
+                "homepage": null,
                 "id": 146534772,
                 "language": "Vala",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-07-06T05:31:13Z",
+                "open_issues": 12,
                 "owner": "calo001",
                 "repo": "luna",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1426,12 +2221,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neat sticky notes app for elementary OS",
+                "homepage": null,
                 "id": 84985737,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2017-11-26T15:43:29Z",
+                "open_issues": 3,
                 "owner": "aboudzz",
                 "repo": "stickies",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "elementaryos",
+                  "gtk3",
+                  "python",
+                  "sticky-notes"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1442,12 +2247,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A date countdown applet",
+                "homepage": null,
                 "id": 98057627,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-11-08T19:34:08Z",
+                "open_issues": 4,
                 "owner": "rickybassom",
                 "repo": "date-countdown",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "countdown-timer",
+                  "flatpak",
+                  "granite",
+                  "gtk",
+                  "linux",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1465,12 +2282,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚗️ A periodic table designed for pantheon shell",
+                "homepage": null,
                 "id": 227671241,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-25T17:09:45Z",
+                "open_issues": 2,
                 "owner": "eudaldgr",
                 "repo": "elements",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "chemistry",
+                  "elementary",
+                  "gtk3",
+                  "meson",
+                  "pantheon",
+                  "science",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1488,12 +2318,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Installs Dropbox and integrates it with WingPanel (for Elementary OS).",
+                "homepage": null,
                 "id": 33096516,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2016-09-14T15:31:54Z",
+                "open_issues": 2,
                 "owner": "hectorm",
                 "repo": "elementary-dropbox",
-                "stars": 434
+                "stars": 434,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1511,12 +2346,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial native Bitwarden client for elementary OS",
+                "homepage": null,
                 "id": 155766274,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-19T17:36:02Z",
+                "open_issues": 11,
                 "owner": "faejr",
                 "repo": "valawarden",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "bitwarden",
+                  "elementary",
+                  "elementary-apps",
+                  "elementary-os",
+                  "elementaryos",
+                  "password-manager",
+                  "vala",
+                  "vala-applications"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1527,12 +2376,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple password generator applet for elementary OS",
+                "homepage": null,
                 "id": 145073372,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-27T14:33:32Z",
+                "open_issues": 7,
                 "owner": "ChristopherNugent",
                 "repo": "Locksmith",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1550,12 +2404,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Birdie is a beautiful & fast Twitter client designed for elementary OS",
+                "homepage": "https://birdie.ivonunes.me",
                 "id": 10421527,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-30T17:29:46Z",
+                "open_issues": 37,
                 "owner": "ivonunes",
                 "repo": "birdie",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1573,12 +2432,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
+                "homepage": null,
                 "id": 86088310,
                 "language": "Vala",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-05-01T16:43:48Z",
+                "open_issues": 454,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4762
+                "stars": 4762,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1589,12 +2453,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage processes and monitor system resources.",
+                "homepage": null,
                 "id": 98550935,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T03:39:00Z",
+                "open_issues": 38,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 363
+                "stars": 363,
+                "topics": [
+                  "elementary-apps",
+                  "elementary-os",
+                  "elementaryos",
+                  "hacktoberfest",
+                  "libgtop",
+                  "libwnck",
+                  "system-monitor",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1605,12 +2483,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring your Desktop Back to Life",
+                "homepage": null,
                 "id": 98743804,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-07T14:05:24Z",
+                "open_issues": 76,
                 "owner": "spheras",
                 "repo": "desktopfolder",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "budgie",
+                  "desktop",
+                  "elementary",
+                  "elementaryos",
+                  "folder",
+                  "gnome",
+                  "notes",
+                  "panel",
+                  "pantheon",
+                  "ubuntu"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1621,12 +2515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jamming your WiFi network",
+                "homepage": null,
                 "id": 131111403,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-05-19T18:27:03Z",
+                "open_issues": 6,
                 "owner": "RonnyDo",
                 "repo": "Wammer",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1637,12 +2536,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A manager for the bookmarks in your .ssh/config file for elementaryOS ",
+                "homepage": null,
                 "id": 90045360,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-30T13:05:36Z",
+                "open_issues": 3,
                 "owner": "unbelievableflavour",
                 "repo": "bookmark-manager",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "bash",
+                  "elementary-os",
+                  "terminal",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1653,12 +2562,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple device formatter",
+                "homepage": null,
                 "id": 99486328,
                 "language": "Vala",
+                "license": "LGPL-2.1",
                 "last_commit": "2021-07-16T19:23:28Z",
+                "open_issues": 10,
                 "owner": "Djaler",
                 "repo": "Formatter",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "elementaryos",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1669,12 +2586,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dimmer : Brightness Adjustment",
+                "homepage": null,
                 "id": 151711128,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-16T11:21:13Z",
+                "open_issues": 7,
                 "owner": "panosx2",
                 "repo": "brightness",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "appcenter",
+                  "brightness",
+                  "brightness-adjustment",
+                  "elementaryos",
+                  "linux"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1685,12 +2613,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Stylish dconf editor",
+                "homepage": null,
                 "id": 98228161,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2017-07-24T20:50:19Z",
+                "open_issues": 2,
                 "owner": "cassidyjames",
                 "repo": "configurator",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1701,12 +2634,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage your repositories",
+                "homepage": null,
                 "id": 103980604,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2019-01-18T19:29:56Z",
+                "open_issues": 1,
                 "owner": "unbelievableflavour",
                 "repo": "repositories-manager",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "apt",
+                  "gui",
+                  "management",
+                  "repositories",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1717,12 +2661,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app to manage your system's Personal Package Archives (PPA) repository sources",
+                "homepage": null,
                 "id": 121192778,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2018-02-12T12:55:06Z",
+                "open_issues": 2,
                 "owner": "chances",
                 "repo": "repo",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "elementary-apps",
+                  "elementaryos",
+                  "gtk3",
+                  "ubuntu-ppa",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1740,12 +2695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautify your oddly-sized wallpapers",
+                "homepage": null,
                 "id": 45369913,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2022-10-14T12:43:29Z",
+                "open_issues": 9,
                 "owner": "Philip-Scott",
                 "repo": "wallpaperize",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1763,12 +2723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This theme is an addition to elementary OS's default icon theme. It contains icons for several third party applications that resemble elementary OS's style.",
+                "homepage": null,
                 "id": 25980493,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-01-02T16:29:18Z",
+                "open_issues": 108,
                 "owner": "Manuel-Kehl",
                 "repo": "elementaryPlus",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1779,12 +2744,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transform your Linux system with an elegant Elementary OS theme and sleek macOS window controls, available in both light and dark mode.",
+                "homepage": "https://surajmandalcell.github.io/elementary-x/",
                 "id": 118568608,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-05T17:12:29Z",
+                "open_issues": 12,
                 "owner": "surajmandalcell",
                 "repo": "elementary-x",
-                "stars": 298
+                "stars": 298,
+                "topics": [
+                  "desktop",
+                  "desktop-environment",
+                  "elementaryos",
+                  "icon-theme",
+                  "stylesheets",
+                  "theme",
+                  "tweaks"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1795,12 +2773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most complete icon pack for 3rd applications with elementary OS design",
+                "homepage": null,
                 "id": 75567779,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-02T09:12:09Z",
+                "open_issues": 18,
                 "owner": "btd1337",
                 "repo": "urutau-icons",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1822,12 +2805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Ayatana compatibility layer for wingpanel",
+            "homepage": null,
             "id": 154726476,
             "language": "Vala",
+            "license": "LGPL-2.1",
             "last_commit": "2021-11-21T16:03:16Z",
+            "open_issues": 12,
             "owner": "donadigo",
             "repo": "wingpanel-indicator-namarupa",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -1838,12 +2826,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System monitor indicator for Wingpanel",
+            "homepage": null,
             "id": 123712712,
             "language": "Vala",
+            "license": "MIT",
             "last_commit": "2020-03-27T20:15:45Z",
+            "open_issues": 12,
             "owner": "PlugaruT",
             "repo": "wingpanel-indicator-sys-monitor",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "elementary",
+              "system-monitor",
+              "vala",
+              "wingpanel"
+            ]
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -1854,12 +2852,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hottoe sound device controller",
+            "homepage": "https://gitlab.com/mithrandirn/hottoe",
             "id": 118437934,
             "language": "Vala",
+            "license": "LGPL-2.1",
             "last_commit": "2018-06-28T18:50:57Z",
+            "open_issues": 7,
             "owner": "gandalfn",
             "repo": "hottoe",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "elementary-apps",
+              "pulseaudio",
+              "vala"
+            ]
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -1870,12 +2877,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search everything from elementary OS top panel",
+            "homepage": null,
             "id": 123737995,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-18T13:41:29Z",
+            "open_issues": 4,
             "owner": "ellie-commons",
             "repo": "wingpanel-indicator-synapse",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "elementary-os",
+              "elementaryos",
+              "synapse",
+              "wingpanel",
+              "wingpanel-indicator",
+              "wingpanel-plugin"
+            ]
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -1886,12 +2905,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weather app for elementary os ",
+            "homepage": null,
             "id": 96401509,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2018-04-25T00:53:49Z",
+            "open_issues": 3,
             "owner": "kunalkushwaha",
             "repo": "wingpanel-indicator-weather",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "elementary-os",
+              "weather",
+              "wingpanel"
+            ]
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -1902,12 +2930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 128890187,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2018-07-08T09:17:33Z",
+            "open_issues": 2,
             "owner": "alainm23",
             "repo": "gameping-indicator",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -1918,12 +2951,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Life indicator for elementary OS",
+            "homepage": null,
             "id": 140868106,
             "language": "Vala",
+            "license": "MIT",
             "last_commit": "2018-07-14T22:10:28Z",
+            "open_issues": 1,
             "owner": "phalbert",
             "repo": "wingpanel-indicator-periods",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "applet",
+              "elementary-os",
+              "elementaryos",
+              "indicator",
+              "indicator-applet",
+              "vala",
+              "wingpanel"
+            ]
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         }
@@ -1940,12 +2986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 120076678,
             "language": "Vala",
+            "license": null,
             "last_commit": "2018-02-03T09:22:58Z",
+            "open_issues": 0,
             "owner": "FranRodriguez",
             "repo": "switchboard-plug-bing-wallpaper",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         }
@@ -1964,12 +3015,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design and build apps for elementary OS.",
+                "homepage": null,
                 "id": 62833100,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-08-17T08:59:57Z",
+                "open_issues": 3,
                 "owner": "aberba",
                 "repo": "elementaryOS-devbook",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "book",
+                  "elementary-os",
+                  "gtk",
+                  "learn-app-development",
+                  "learn-by-doing",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             }
@@ -1991,12 +3054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy installation of software after clean install",
+            "homepage": null,
             "id": 62554130,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-03-06T05:33:13Z",
+            "open_issues": 0,
             "owner": "erikdubois",
             "repo": "Ultimate-Elementary-Os",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -2007,12 +3075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny script that helps you perform necessary tasks after you install Ubuntu based systems as elementary OS, Linux Mint and Ubuntu itself. It saves your post-installation time",
+            "homepage": "http://elementaryscript.haizen.tech/",
             "id": 160569478,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-07-01T03:38:37Z",
+            "open_issues": 0,
             "owner": "btd1337",
             "repo": "elementary-script",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         },
@@ -2023,12 +3096,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":baby_bottle: First steps for configuring a fresh installed eOS",
+            "homepage": null,
             "id": 80884810,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-07T22:43:40Z",
+            "open_issues": 0,
             "owner": "tonietto",
             "repo": "Elementary-OS-First-Steps",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "elementary-os",
+              "hyper",
+              "linux",
+              "terminal",
+              "ubuntu",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
         }
@@ -2037,15 +3122,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:59:42.867Z",
+    "last_updated": "2026-08-29T04:51:55.478Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
+      "homepage": null,
       "id": 81117723,
       "language": null,
+      "license": "MIT",
       "last_commit": "2021-08-17T20:20:29Z",
+      "open_issues": 1,
       "owner": "kleinrein",
       "repo": "awesome-elementaryos",
-      "stars": 213
+      "stars": 213,
+      "topics": [
+        "awesome-list",
+        "awesomeness",
+        "elementary",
+        "elementaryos"
+      ]
     },
     "original_repository_sha": "1b54a8892e4f48ac29a573071db95577f49e0f69",
     "enhanced_repository": "enhansome/enhansome-elementaryos",
