@@ -872,7 +872,7 @@
               "description": "Know when your websites are misbehaving :white_check_mark:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Know when your websites are misbehaving!",
                 "homepage": null,
                 "id": 131940603,
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5336,
+                "stars": 5337,
                 "topics": [
                   "appcenter",
                   "design",
@@ -997,7 +997,7 @@
                 "open_issues": 32,
                 "owner": "RonnyDo",
                 "repo": "ColorPicker",
-                "stars": 107,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T11:42:05Z",
-                "open_issues": 169,
+                "last_commit": "2026-08-31T18:26:38Z",
+                "open_issues": 168,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5634,
+                "stars": 5638,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1900,7 +1900,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1197,
+                "stars": 1199,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2016,7 +2016,7 @@
                 "id": 93226561,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-08-30T15:24:53Z",
+                "last_commit": "2026-08-31T03:37:45Z",
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "quilter",
@@ -2441,7 +2441,7 @@
                 "open_issues": 454,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4762,
+                "stars": 4761,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,7 +2458,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-25T03:39:00Z",
+                "last_commit": "2026-08-30T19:02:06Z",
                 "open_issues": 38,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:21:26.794Z",
+    "last_updated": "2026-08-31T19:28:54.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",

@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 501,377 | 🐛 105 | 📅 2026-08-21
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 501,673 | 🐛 105 | 📅 2026-08-21
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -98,7 +98,7 @@
 * [Alias](https://github.com/bartzaalberg/alias) ⚠️ Archived - Simplify your commands [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.alias.desktop)
 * [PHP Tester](https://github.com/bartzaalberg/php-tester) ⚠️ Archived - Test your PHP code easily [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 * [Vanat](https://github.com/vanat/vanat) ⭐ 14 | 🐛 4 | 🌐 Vala | 📅 2021-09-25 - Dependency Manager for Vala
-* [Web Watcher](https://github.com/kjlaw89/webwatcher) ⭐ 14 | 🐛 13 | 🌐 Vala | 📅 2018-11-10 - Know when your websites are misbehaving [:white\_check\_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
+* [Web Watcher](https://github.com/kjlaw89/webwatcher) ⚠️ Archived - Know when your websites are misbehaving [:white\_check\_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
 * [ValaCompiler](https://github.com/basjam/ValaCompiler/) ⭐ 10 | 🐛 8 | 🌐 Vala | 📅 2020-10-25 - A simple GUI for valac [:white\_check\_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 * [File Conflicts Finder](https://github.com/artemanufrij/findfileconflicts) ⭐ 7 | 🐛 5 | 🌐 Vala | 📅 2020-11-17 - Helps to find file names which could have conflicts on Windows [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.findfileconflicts)
 * [GraphUI](http://anufrij.org/) - Graph Visualization [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
@@ -106,8 +106,8 @@
 
 ### Design
 
-* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,336 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
-* [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 107 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
+* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,337 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
+* [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 106 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
 * [Dippi](https://github.com/cassidyjames/dippi) ⭐ 91 | 🐛 11 | 🌐 Vala | 📅 2026-05-08 - Calculate display info like DPI and aspect ratio [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 * [Harvey](https://github.com/danrabbit/harvey) ⭐ 55 | 🐛 6 | 🌐 Vala | 📅 2024-08-29 - A color contrast checker [:white\_check\_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
 * [Lookbook](https://github.com/danrabbit/lookbook) ⚠️ Archived - Browse and find system icons
@@ -166,13 +166,13 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,634 | 🐛 169 | 🌐 Vala | 📅 2026-08-30 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,197 | 🐛 50 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,638 | 🐛 168 | 🌐 Vala | 📅 2026-08-31 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,199 | 🐛 50 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 * [Go For It](https://github.com/mank319/Go-For-It) ⭐ 514 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
-* [Quilter](https://github.com/lainsce/quilter/) ⭐ 296 | 🐛 0 | 🌐 Swift | 📅 2026-08-30 - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
+* [Quilter](https://github.com/lainsce/quilter/) ⭐ 296 | 🐛 0 | 🌐 Swift | 📅 2026-08-31 - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
 * [Agenda](https://github.com/dahenson/agenda) ⭐ 104 | 🐛 16 | 🌐 Vala | 📅 2026-05-20 - A simple, fast, no-nonsense to-do (task) list.
 * [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2026-08-29 - A spreadsheet app
 * [Workspaces](https://github.com/DevAlien/workspaces) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2021-02-21 - Workspaces lets you configure and quickly launch all you need to work on a project [:white\_check\_mark:](https://appcenter.elementary.io/com.github.devalien.workspaces)
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 363 | 🐛 38 | 🌐 Vala | 📅 2026-08-25 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 363 | 🐛 38 | 🌐 Vala | 📅 2026-08-30 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 210 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
