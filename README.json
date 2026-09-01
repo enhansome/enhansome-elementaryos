@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2830,
+                "stars": 2831,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T18:26:38Z",
-                "open_issues": 168,
+                "last_commit": "2026-09-01T17:09:48Z",
+                "open_issues": 171,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5638,
+                "stars": 5639,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1900,7 +1900,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1199,
+                "stars": 1200,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2016,7 +2016,7 @@
                 "id": 93226561,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-08-31T03:37:45Z",
+                "last_commit": "2026-09-01T01:47:07Z",
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "quilter",
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:28:54.063Z",
+    "last_updated": "2026-09-01T17:17:52.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
@@ -3134,7 +3134,7 @@
       "open_issues": 1,
       "owner": "kleinrein",
       "repo": "awesome-elementaryos",
-      "stars": 213,
+      "stars": 214,
       "topics": [
         "awesome-list",
         "awesomeness",
