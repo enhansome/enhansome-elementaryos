@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337,
+                "stars": 5338,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1634,7 +1634,7 @@
                 "open_issues": 111,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1861,10 +1861,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-01T23:23:15Z",
-                "open_issues": 170,
+                "open_issues": 169,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5643,
+                "stars": 5646,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1900,7 +1900,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -1925,7 +1925,7 @@
                 "open_issues": 115,
                 "owner": "jangernert",
                 "repo": "FeedReader",
-                "stars": 768,
+                "stars": 769,
                 "topics": [
                   "feed-reader",
                   "flatpak-bundle",
@@ -2441,7 +2441,7 @@
                 "open_issues": 454,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4761,
+                "stars": 4760,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:06:35.033Z",
+    "last_updated": "2026-09-03T17:00:47.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
