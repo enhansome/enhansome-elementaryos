@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 502,634 | 🐛 105 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 502,961 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -48,7 +48,7 @@
 
 ### Accessories
 
-* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 145 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
+* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,387 | 🐛 145 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 * [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 216 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
 * [Eddy](https://github.com/donadigo/eddy) ⭐ 187 | 🐛 29 | 🌐 Vala | 📅 2023-08-07 - Simple debian package installer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 * [Clipped](https://github.com/davidmhewitt/clipped) ⭐ 99 | 🐛 32 | 🌐 Vala | 📅 2021-08-31 - Manage your clipboard with ease
@@ -89,7 +89,7 @@
 
 * [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 841 | 🐛 69 | 🌐 Vala | 📅 2026-09-02 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 * [quickDocs](https://github.com/mdh34/quickDocs) ⚠️ Archived - quickly read developer documentation [:white\_check\_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
-* [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 101 | 🐛 40 | 🌐 Vala | 📅 2026-05-13 - Check code-style of Vala code files
+* [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 101 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - An unofficial elementary OS (Vala) oriented IDE
 * [elementary-icons-template](https://github.com/micahilbery/elementary-icon-templates) ⭐ 71 | 🐛 0 | 📅 2020-10-12 - A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG
 * [RegEx Tester](https://github.com/artemanufrij/regextester) ⭐ 45 | 🐛 18 | 🌐 Vala | 📅 2023-02-28 - A simple regex tester [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
@@ -166,13 +166,13 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,646 | 🐛 169 | 🌐 Vala | 📅 2026-09-01 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,651 | 🐛 167 | 🌐 Vala | 📅 2026-09-03 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 50 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 * [Go For It](https://github.com/mank319/Go-For-It) ⭐ 514 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
-* [Quilter](https://github.com/lainsce/quilter/) ⭐ 296 | 🐛 0 | 🌐 Swift | 📅 2026-09-01 - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
+* [Quilter](https://github.com/lainsce/quilter/) ⭐ 296 | 🐛 0 | 🌐 Swift | 📅 2026-09-04 - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
 * [Agenda](https://github.com/dahenson/agenda) ⭐ 104 | 🐛 16 | 🌐 Vala | 📅 2026-05-20 - A simple, fast, no-nonsense to-do (task) list.
 * [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2026-08-29 - A spreadsheet app
 * [Workspaces](https://github.com/DevAlien/workspaces) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2021-02-21 - Workspaces lets you configure and quickly launch all you need to work on a project [:white\_check\_mark:](https://appcenter.elementary.io/com.github.devalien.workspaces)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
