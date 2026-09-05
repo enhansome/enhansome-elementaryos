@@ -560,7 +560,7 @@
                 "open_issues": 45,
                 "owner": "donadigo",
                 "repo": "appeditor",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2831,
+                "stars": 2832,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1634,7 +1634,7 @@
                 "open_issues": 111,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T23:03:05Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-05T00:28:10Z",
+                "open_issues": 166,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5651,
+                "stars": 5653,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1925,7 +1925,7 @@
                 "open_issues": 115,
                 "owner": "jangernert",
                 "repo": "FeedReader",
-                "stars": 769,
+                "stars": 768,
                 "topics": [
                   "feed-reader",
                   "flatpak-bundle",
@@ -2492,7 +2492,7 @@
                 "open_issues": 76,
                 "owner": "spheras",
                 "repo": "desktopfolder",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "budgie",
                   "desktop",
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:49:34.042Z",
+    "last_updated": "2026-09-05T15:58:15.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
