@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 503,230 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 503,548 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -166,12 +166,12 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,653 | 🐛 166 | 🌐 Vala | 📅 2026-09-05 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,657 | 🐛 167 | 🌐 Vala | 📅 2026-09-05 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 50 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
-* [Go For It](https://github.com/mank319/Go-For-It) ⭐ 514 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
+* [Go For It](https://github.com/mank319/Go-For-It) ⭐ 513 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
 * [Quilter](https://github.com/lainsce/quilter/) ⭐ 296 | 🐛 0 | 🌐 Swift | 📅 2026-09-04 - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
 * [Agenda](https://github.com/dahenson/agenda) ⭐ 104 | 🐛 16 | 🌐 Vala | 📅 2026-05-20 - A simple, fast, no-nonsense to-do (task) list.
 * [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2026-08-29 - A spreadsheet app
@@ -229,7 +229,7 @@
 
 ### Theming
 
-* [elementaryPlus](https://github.com/mank319/elementaryPlus) ⭐ 358 | 🐛 108 | 🌐 Python | 📅 2018-01-02 - elementaryPlus is a community maintained addition to elementary OS's default icon theme
+* [elementaryPlus](https://github.com/mank319/elementaryPlus) ⭐ 357 | 🐛 108 | 🌐 Python | 📅 2018-01-02 - elementaryPlus is a community maintained addition to elementary OS's default icon theme
 * [elementary X](https://github.com/surajmandalcell/elementary-x) ⭐ 298 | 🐛 12 | 🌐 CSS | 📅 2023-02-05 - Original elementary theme with some tweaks and OS X window controls
 * [Uratau Icons](https://github.com/btd1337/urutau-icons) ⭐ 115 | 🐛 18 | 🌐 Shell | 📅 2019-11-02 - The most complete icon package for third-party applications with elementary OS design
 
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
