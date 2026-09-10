@@ -588,7 +588,7 @@
                 "open_issues": 68,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "appcenter",
                   "debian",
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T16:41:09Z",
-                "open_issues": 163,
+                "last_commit": "2026-09-10T16:40:50Z",
+                "open_issues": 164,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5666,
+                "stars": 5674,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1896,8 +1896,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-20T23:25:47Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-09T22:55:02Z",
+                "open_issues": 51,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1201,
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:07:44.007Z",
+    "last_updated": "2026-09-10T16:57:53.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",

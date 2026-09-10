@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 504,474 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 504,754 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -87,7 +87,7 @@
 
 ### Development
 
-* [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 841 | 🐛 68 | 🌐 Vala | 📅 2026-09-07 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
+* [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 842 | 🐛 68 | 🌐 Vala | 📅 2026-09-07 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 * [quickDocs](https://github.com/mdh34/quickDocs) ⚠️ Archived - quickly read developer documentation [:white\_check\_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
 * [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 101 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - An unofficial elementary OS (Vala) oriented IDE
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,666 | 🐛 163 | 🌐 Vala | 📅 2026-09-09 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 52 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,674 | 🐛 164 | 🌐 Vala | 📅 2026-09-10 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 51 | 🌐 Vala | 📅 2026-09-09 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
