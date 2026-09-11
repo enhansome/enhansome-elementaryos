@@ -278,7 +278,7 @@
               "description": "The ultimate tea timer :white_check_mark:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "The ultimate tea timer",
                 "homepage": null,
                 "id": 109014867,
@@ -585,7 +585,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-07T22:38:45Z",
-                "open_issues": 68,
+                "open_issues": 67,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
                 "stars": 842,
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5338,
+                "stars": 5340,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1284,7 +1284,7 @@
               "description": "The number that is alone :white_check_mark:",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Sudoku game for elementary OS",
                 "homepage": null,
                 "id": 107866919,
@@ -1384,8 +1384,8 @@
                 "id": 97706352,
                 "language": "Vala",
                 "license": "MIT",
-                "last_commit": "2026-09-09T13:42:26Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-11T15:18:45Z",
+                "open_issues": 3,
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
                 "stars": 87,
@@ -1860,8 +1860,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T16:40:50Z",
-                "open_issues": 164,
+                "last_commit": "2026-09-10T18:06:35Z",
+                "open_issues": 167,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5674,
@@ -1900,7 +1900,7 @@
                 "open_issues": 51,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2438,10 +2438,10 @@
                 "language": "Vala",
                 "license": "LGPL-3.0",
                 "last_commit": "2023-05-01T16:43:48Z",
-                "open_issues": 454,
+                "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4757,
+                "stars": 4755,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,7 +2458,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T13:56:41Z",
+                "last_commit": "2026-09-11T16:40:32Z",
                 "open_issues": 39,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:57:53.114Z",
+    "last_updated": "2026-09-11T17:00:01.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
