@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2835,
+                "stars": 2834,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1861,10 +1861,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-10T18:06:35Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5674,
+                "stars": 5678,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1896,8 +1896,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T22:55:02Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-12T15:14:21Z",
+                "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1202,
@@ -2441,7 +2441,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4755,
+                "stars": 4754,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,7 +2458,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T16:40:32Z",
+                "last_commit": "2026-09-12T16:00:34Z",
                 "open_issues": 39,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:00:01.141Z",
+    "last_updated": "2026-09-12T16:12:28.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
