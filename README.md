@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 505,364 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 505,671 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -106,7 +106,7 @@
 
 ### Design
 
-* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,340 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
+* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,341 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
 * [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 106 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
 * [Dippi](https://github.com/cassidyjames/dippi) ⭐ 91 | 🐛 11 | 🌐 Vala | 📅 2026-05-08 - Calculate display info like DPI and aspect ratio [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 * [Harvey](https://github.com/danrabbit/harvey) ⭐ 55 | 🐛 6 | 🌐 Vala | 📅 2024-08-29 - A color contrast checker [:white\_check\_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,678 | 🐛 168 | 🌐 Vala | 📅 2026-09-10 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,679 | 🐛 170 | 🌐 Vala | 📅 2026-09-10 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,202 | 🐛 50 | 🌐 Vala | 📅 2026-09-12 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -174,7 +174,7 @@
 * [Go For It](https://github.com/mank319/Go-For-It) ⭐ 513 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
 * [Quilter](https://github.com/lainsce/quilter/) ⚠️ Archived - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
 * [Agenda](https://github.com/dahenson/agenda) ⭐ 104 | 🐛 16 | 🌐 Vala | 📅 2026-05-20 - A simple, fast, no-nonsense to-do (task) list.
-* [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2026-08-29 - A spreadsheet app
+* [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 25 | 🌐 Vala | 📅 2026-09-13 - A spreadsheet app
 * [Workspaces](https://github.com/DevAlien/workspaces) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2021-02-21 - Workspaces lets you configure and quickly launch all you need to work on a project [:white\_check\_mark:](https://appcenter.elementary.io/com.github.devalien.workspaces)
 * [Hackup](https://github.com/mdh34/hackup) ⚠️ Archived - Read Hacker News from the desktop
 * [Coffee](https://github.com/nick92/coffee) ⭐ 42 | 🐛 14 | 🌐 Vala | 📅 2019-11-14 - Keep up-to-date with current news and weather with Coffee
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
