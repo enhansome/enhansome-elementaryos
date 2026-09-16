@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2836,
+                "stars": 2838,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1384,8 +1384,8 @@
                 "id": 97706352,
                 "language": "Vala",
                 "license": "MIT",
-                "last_commit": "2026-09-15T12:11:52Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-16T11:21:20Z",
+                "open_issues": 2,
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
                 "stars": 87,
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T18:06:35Z",
-                "open_issues": 176,
+                "last_commit": "2026-09-16T16:25:23Z",
+                "open_issues": 175,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5685,
+                "stars": 5689,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2441,7 +2441,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4754,
+                "stars": 4755,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,8 +2458,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T17:32:50Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-16T16:32:04Z",
+                "open_issues": 45,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 362,
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:38:15.936Z",
+    "last_updated": "2026-09-16T17:35:47.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
