@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 506,668 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 507,082 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -179,7 +179,7 @@
 * [Hackup](https://github.com/mdh34/hackup) ⚠️ Archived - Read Hacker News from the desktop
 * [Coffee](https://github.com/nick92/coffee) ⭐ 42 | 🐛 14 | 🌐 Vala | 📅 2019-11-14 - Keep up-to-date with current news and weather with Coffee
 * [Envelope](https://github.com/cjfloss/envelope) ⭐ 42 | 🐛 22 | 🌐 Vala | 📅 2020-08-19 - Personal finance manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cjfloss.envelope)
-* [Luna](https://github.com/calo001/luna) ⭐ 32 | 🐛 12 | 🌐 Vala | 📅 2022-07-06 - An amazing calendar widget [:white\_check\_mark:](https://appcenter.elementary.io/com.github.calo001.luna)
+* [Luna](https://github.com/calo001/luna) ⭐ 33 | 🐛 12 | 🌐 Vala | 📅 2022-07-06 - An amazing calendar widget [:white\_check\_mark:](https://appcenter.elementary.io/com.github.calo001.luna)
 * [Stickies](https://github.com/aboudzakaria/stickies) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2017-11-26 - Neat sticky notes app
 * [Date Countdown](https://github.com/rickybas/date-countdown) ⭐ 14 | 🐛 4 | 🌐 Vala | 📅 2020-11-08 - A date countdown applet [:white\_check\_mark:](https://appcenter.elementary.io/com.github.rickybas.date-countdown)
 * [Agenda Tasks](https://launchpad.net/agenda-tasks) - A simple, slick, speedy, no-nonsense task manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.dahenson.agenda.desktop)
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 45 | 🌐 Vala | 📅 2026-09-16 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 46 | 🌐 Vala | 📅 2026-09-17 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 211 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
