@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2838,
+                "stars": 2837,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1697,7 +1697,7 @@
                 "id": 156989873,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T14:06:24Z",
+                "last_commit": "2026-09-17T22:51:31Z",
                 "open_issues": 40,
                 "owner": "ryonakano",
                 "repo": "reco",
@@ -1805,7 +1805,7 @@
                 "open_issues": 17,
                 "owner": "artemanufrij",
                 "repo": "playmyvideos",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "linux",
                   "player",
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T16:25:23Z",
-                "open_issues": 175,
+                "last_commit": "2026-09-18T16:27:51Z",
+                "open_issues": 174,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5689,
+                "stars": 5690,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1900,7 +1900,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1202,
+                "stars": 1201,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2441,7 +2441,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4755,
+                "stars": 4756,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,18 +2458,18 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T17:03:18Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-18T14:48:24Z",
+                "open_issues": 51,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
                   "elementaryos",
+                  "gtk4",
                   "hacktoberfest",
                   "libgtop",
-                  "libwnck",
                   "system-monitor",
                   "vala"
                 ]
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:35:51.064Z",
+    "last_updated": "2026-09-18T17:02:31.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",

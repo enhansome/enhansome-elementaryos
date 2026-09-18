@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 507,082 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 507,419 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -153,11 +153,11 @@
 
 * [Cozy](https://github.com/geigi/cozy) ⭐ 1,211 | 🐛 111 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
-* [Reco](https://github.com/ryonakano/reco) ⭐ 126 | 🐛 40 | 🌐 Vala | 📅 2026-09-15 - Audio recording app
+* [Reco](https://github.com/ryonakano/reco) ⭐ 126 | 🐛 40 | 🌐 Vala | 📅 2026-09-17 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 44 | 🐛 8 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 * [Tranqil](https://github.com/nick92/tranqil) ⭐ 33 | 🐛 13 | 🌐 Vala | 📅 2022-10-29 - Relax to soothing sounds of nature [:white\_check\_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
 * [eRadio](https://github.com/DreamDevel/eRadio) ⭐ 31 | 🐛 12 | 🌐 Vala | 📅 2020-01-11 - A minimalist and powerful radio player
-* [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 29 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
+* [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 30 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
 * [ellyrics](https://github.com/mkinitcpio/ellyrics) ⭐ 1 | 🐛 0 | 🌐 Vala | 📅 2018-03-13 - Song lyrics search application
 * [Karim](https://github.com/robertsanseries/karim) - Graphical interface for command-line tool youtube-dl
 * [Metronome](https://launchpad.net/metronome) - A simple click [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,689 | 🐛 175 | 🌐 Vala | 📅 2026-09-16 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,202 | 🐛 50 | 🌐 Vala | 📅 2026-09-12 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,690 | 🐛 174 | 🌐 Vala | 📅 2026-09-18 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 50 | 🌐 Vala | 📅 2026-09-12 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 46 | 🌐 Vala | 📅 2026-09-17 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 361 | 🐛 51 | 🌐 Vala | 📅 2026-09-18 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 211 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
