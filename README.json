@@ -21,7 +21,7 @@
                 "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1388,
+                "stars": 1387,
                 "topics": [
                   "bookworm",
                   "ebook-reader",
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5341,
+                "stars": 5342,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1012,9 +1012,9 @@
                 "description": "Calculate display info like DPI and aspect ratio",
                 "homepage": "https://cassidyjames.com/dippi",
                 "id": 116722712,
-                "language": "Vala",
+                "language": "Blueprint",
                 "license": "GPL-3.0",
-                "last_commit": "2026-05-08T02:22:44Z",
+                "last_commit": "2026-09-19T14:52:46Z",
                 "open_issues": 11,
                 "owner": "cassidyjames",
                 "repo": "dippi",
@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2837,
+                "stars": 2836,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1416,7 +1416,7 @@
                 "id": 118376664,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2022-06-29T16:25:53Z",
+                "last_commit": "2026-09-19T16:17:04Z",
                 "open_issues": 6,
                 "owner": "peteruithoven",
                 "repo": "resizer",
@@ -1860,11 +1860,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T16:27:51Z",
+                "last_commit": "2026-09-18T17:56:21Z",
                 "open_issues": 174,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5690,
+                "stars": 5693,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2441,7 +2441,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4756,
+                "stars": 4755,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,7 +2458,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T14:48:24Z",
+                "last_commit": "2026-09-19T07:02:49Z",
                 "open_issues": 51,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:02:31.508Z",
+    "last_updated": "2026-09-19T16:22:27.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
