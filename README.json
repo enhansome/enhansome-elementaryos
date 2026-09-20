@@ -1018,7 +1018,7 @@
                 "open_issues": 11,
                 "owner": "cassidyjames",
                 "repo": "dippi",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "adwaita",
                   "displays",
@@ -1388,7 +1388,7 @@
                 "open_issues": 2,
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "compression",
                   "elementary-apps",
@@ -1400,34 +1400,6 @@
                   "linux",
                   "snapcraft",
                   "ubuntu"
-                ]
-              },
-              "first_seen": "2026-08-28T22:59:42.867Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Resizer",
-              "description": "Quickly resize images from the context menu :white_check_mark:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Quick image resizer app for elementary OS",
-                "homepage": "https://appcenter.elementary.io/com.github.peteruithoven.resizer/",
-                "id": 118376664,
-                "language": "Vala",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-19T16:17:04Z",
-                "open_issues": 6,
-                "owner": "peteruithoven",
-                "repo": "resizer",
-                "stars": 15,
-                "topics": [
-                  "elementaryos",
-                  "gtk3",
-                  "hacktoberfest",
-                  "imagemagick",
-                  "meson",
-                  "vala"
                 ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1448,8 +1420,36 @@
                 "open_issues": 5,
                 "owner": "santileortiz",
                 "repo": "Iconoscope",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T22:59:42.867Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Resizer",
+              "description": "Quickly resize images from the context menu :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Quick image resizer app for elementary OS",
+                "homepage": "https://appcenter.elementary.io/com.github.peteruithoven.resizer/",
+                "id": 118376664,
+                "language": "Vala",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-20T16:44:37Z",
+                "open_issues": 4,
+                "owner": "peteruithoven",
+                "repo": "resizer",
+                "stars": 15,
+                "topics": [
+                  "elementaryos",
+                  "gtk3",
+                  "hacktoberfest",
+                  "imagemagick",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1861,10 +1861,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-18T17:56:21Z",
-                "open_issues": 174,
+                "open_issues": 176,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5693,
+                "stars": 5695,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1900,7 +1900,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2458,8 +2458,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T07:02:49Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-20T16:39:43Z",
+                "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 361,
@@ -3122,7 +3122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:22:27.114Z",
+    "last_updated": "2026-09-20T16:45:32.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
