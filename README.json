@@ -588,7 +588,7 @@
                 "open_issues": 67,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "appcenter",
                   "debian",
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5342,
+                "stars": 5343,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1437,17 +1437,21 @@
                 "id": 118376664,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T16:44:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-21T07:41:41Z",
+                "open_issues": 7,
                 "owner": "peteruithoven",
                 "repo": "resizer",
                 "stars": 15,
                 "topics": [
+                  "adwaita",
                   "elementaryos",
-                  "gtk3",
+                  "gtk4",
                   "hacktoberfest",
-                  "imagemagick",
                   "meson",
+                  "resize",
+                  "resize-image",
+                  "resize-images",
+                  "resizer",
                   "vala"
                 ]
               },
@@ -1634,7 +1638,7 @@
                 "open_issues": 111,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1860,11 +1864,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T17:56:21Z",
-                "open_issues": 176,
+                "last_commit": "2026-09-21T15:49:33Z",
+                "open_issues": 175,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5695,
+                "stars": 5697,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1951,7 +1955,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 632,
+                "stars": 631,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -2441,7 +2445,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4755,
+                "stars": 4754,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2458,7 +2462,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T16:39:43Z",
+                "last_commit": "2026-09-21T02:51:52Z",
                 "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3122,7 +3126,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:45:32.639Z",
+    "last_updated": "2026-09-21T18:36:59.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
