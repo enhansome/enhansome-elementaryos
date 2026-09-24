@@ -1445,7 +1445,7 @@
                 "id": 118376664,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T07:41:41Z",
+                "last_commit": "2026-09-24T00:08:54Z",
                 "open_issues": 7,
                 "owner": "peteruithoven",
                 "repo": "resizer",
@@ -1643,7 +1643,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-16T10:14:47Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
                 "stars": 1212,
@@ -1876,7 +1876,7 @@
                 "open_issues": 181,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5703,
+                "stars": 5704,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,8 +1908,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T04:47:32Z",
-                "open_issues": 53,
+                "last_commit": "2026-09-24T04:06:28Z",
+                "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1204,
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4754,
+                "stars": 4753,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T17:26:54Z",
+                "last_commit": "2026-09-24T17:27:11Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:49:11.254Z",
+    "last_updated": "2026-09-24T17:49:58.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
