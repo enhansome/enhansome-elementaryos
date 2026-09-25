@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2836,
+                "stars": 2837,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1646,7 +1646,7 @@
                 "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1873,10 +1873,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T15:49:33Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5704,
+                "stars": 5705,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,8 +1908,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T04:06:28Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-25T03:11:24Z",
+                "open_issues": 49,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1204,
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T17:27:11Z",
+                "last_commit": "2026-09-25T07:02:29Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:49:58.195Z",
+    "last_updated": "2026-09-25T17:53:59.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
