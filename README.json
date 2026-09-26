@@ -1908,8 +1908,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T03:11:24Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-26T16:59:08Z",
+                "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1204,
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T07:02:29Z",
+                "last_commit": "2026-09-26T15:08:57Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:53:59.136Z",
+    "last_updated": "2026-09-26T17:04:49.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
