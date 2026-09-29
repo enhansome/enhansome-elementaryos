@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 511,942 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 512,363 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -166,15 +166,15 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,710 | 🐛 185 | 🌐 Vala | 📅 2026-09-21 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,205 | 🐛 49 | 🌐 Vala | 📅 2026-09-28 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,718 | 🐛 185 | 🌐 Vala | 📅 2026-09-21 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,206 | 🐛 47 | 🌐 Vala | 📅 2026-09-29 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 631 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
 * [Go For It](https://github.com/mank319/Go-For-It) ⭐ 513 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
 * [Quilter](https://github.com/lainsce/quilter/) ⚠️ Archived - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
 * [Agenda](https://github.com/dahenson/agenda) ⭐ 104 | 🐛 16 | 🌐 Vala | 📅 2026-05-20 - A simple, fast, no-nonsense to-do (task) list.
-* [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 25 | 🌐 Vala | 📅 2026-09-27 - A spreadsheet app
+* [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 25 | 🌐 Vala | 📅 2026-09-29 - A spreadsheet app
 * [Workspaces](https://github.com/DevAlien/workspaces) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2021-02-21 - Workspaces lets you configure and quickly launch all you need to work on a project [:white\_check\_mark:](https://appcenter.elementary.io/com.github.devalien.workspaces)
 * [Hackup](https://github.com/mdh34/hackup) ⚠️ Archived - Read Hacker News from the desktop
 * [Coffee](https://github.com/nick92/coffee) ⭐ 42 | 🐛 14 | 🌐 Vala | 📅 2019-11-14 - Keep up-to-date with current news and weather with Coffee
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 361 | 🐛 47 | 🌐 Vala | 📅 2026-09-27 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 361 | 🐛 47 | 🌐 Vala | 📅 2026-09-28 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 211 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
