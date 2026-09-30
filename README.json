@@ -1876,7 +1876,7 @@
                 "open_issues": 185,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5718,
+                "stars": 5722,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:34:26.149Z",
+    "last_updated": "2026-09-30T18:23:56.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
