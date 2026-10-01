@@ -1018,7 +1018,7 @@
                 "open_issues": 11,
                 "owner": "cassidyjames",
                 "repo": "dippi",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "adwaita",
                   "displays",
@@ -1051,7 +1051,7 @@
                 "open_issues": 6,
                 "owner": "danirabbit",
                 "repo": "harvey",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1709,8 +1709,8 @@
                 "id": 156989873,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T06:32:17Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-01T14:38:06Z",
+                "open_issues": 39,
                 "owner": "ryonakano",
                 "repo": "reco",
                 "stars": 126,
@@ -1873,10 +1873,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T15:49:33Z",
-                "open_issues": 185,
+                "open_issues": 191,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5722,
+                "stars": 5726,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T02:25:53Z",
+                "last_commit": "2026-10-01T06:05:22Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:23:56.303Z",
+    "last_updated": "2026-10-01T18:48:06.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
