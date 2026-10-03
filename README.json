@@ -21,7 +21,7 @@
                 "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1385,
+                "stars": 1384,
                 "topics": [
                   "bookworm",
                   "ebook-reader",
@@ -539,7 +539,7 @@
                 "open_issues": 11,
                 "owner": "elementary-tweaks",
                 "repo": "elementary-tweaks",
-                "stars": 601,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1872,8 +1872,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T23:42:09Z",
-                "open_issues": 188,
+                "last_commit": "2026-10-03T12:41:22Z",
+                "open_issues": 186,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5726,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:26.535Z",
+    "last_updated": "2026-10-03T17:11:39.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
