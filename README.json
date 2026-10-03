@@ -21,7 +21,7 @@
                 "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1386,
+                "stars": 1385,
                 "topics": [
                   "bookworm",
                   "ebook-reader",
@@ -1646,7 +1646,7 @@
                 "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1213,
+                "stars": 1212,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1681,7 +1681,7 @@
                 "open_issues": 47,
                 "owner": "haecker-felix",
                 "repo": "Gradio",
-                "stars": 326,
+                "stars": 325,
                 "topics": [
                   "discovery",
                   "flatpak",
@@ -1872,8 +1872,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T15:49:33Z",
-                "open_issues": 193,
+                "last_commit": "2026-10-02T23:42:09Z",
+                "open_issues": 188,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5726,
@@ -1963,7 +1963,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 631,
+                "stars": 630,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -2326,7 +2326,7 @@
             {
               "node_type": "item",
               "title": "Dropbox for elementary OS",
-              "description": null,
+              "description": "hectorm/elementary-dropbox",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4753,
+                "stars": 4751,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2471,7 +2471,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T21:16:50Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 361,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:20:38.772Z",
+    "last_updated": "2026-10-03T04:42:26.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
