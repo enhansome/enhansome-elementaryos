@@ -208,9 +208,9 @@
                 "id": 151196858,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T08:23:03Z",
+                "last_commit": "2026-10-06T15:18:25Z",
                 "open_issues": 23,
-                "owner": "ryonakano",
+                "owner": "elework",
                 "repo": "writer",
                 "stars": 25,
                 "topics": []
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5345,
+                "stars": 5344,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1713,7 +1713,7 @@
                 "open_issues": 39,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T23:23:08Z",
+                "last_commit": "2026-10-06T17:15:57Z",
                 "open_issues": 189,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5732,
+                "stars": 5734,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T04:41:08Z",
+                "last_commit": "2026-10-06T14:23:33Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -2011,7 +2011,7 @@
                 "open_issues": 21,
                 "owner": "Manuel-Kehl",
                 "repo": "Go-For-It",
-                "stars": 513,
+                "stars": 512,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:14:23.281Z",
+    "last_updated": "2026-10-06T18:52:30.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
