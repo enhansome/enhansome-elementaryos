@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 515,557 | 🐛 106 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 516,016 | 🐛 106 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -92,7 +92,7 @@
 * [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 101 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - An unofficial elementary OS (Vala) oriented IDE
 * [elementary-icons-template](https://github.com/micahilbery/elementary-icon-templates) ⭐ 71 | 🐛 0 | 📅 2020-10-12 - A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG
-* [RegEx Tester](https://github.com/artemanufrij/regextester) ⭐ 45 | 🐛 18 | 🌐 Vala | 📅 2023-02-28 - A simple regex tester [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
+* [RegEx Tester](https://github.com/artemanufrij/regextester) ⭐ 46 | 🐛 18 | 🌐 Vala | 📅 2023-02-28 - A simple regex tester [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
 * [Develop](https://github.com/alcadica/develop) ⚠️ Archived - A simple tool to help Elementary OS developers to develop their own apps and widgets [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alcadica.develop)
 * [Snaptastic](https://github.com/bartzaalberg/snaptastic) ⚠️ Archived - A manager for snaps [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.snaptastic.desktop)
 * [Alias](https://github.com/bartzaalberg/alias) ⚠️ Archived - Simplify your commands [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.alias.desktop)
@@ -153,11 +153,11 @@
 
 * [Cozy](https://github.com/geigi/cozy) ⭐ 1,211 | 🐛 112 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
-* [Reco](https://github.com/ryonakano/reco) ⭐ 127 | 🐛 39 | 🌐 Vala | 📅 2026-10-04 - Audio recording app
+* [Reco](https://github.com/ryonakano/reco) ⭐ 128 | 🐛 39 | 🌐 Vala | 📅 2026-10-06 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 44 | 🐛 8 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 * [Tranqil](https://github.com/nick92/tranqil) ⭐ 33 | 🐛 13 | 🌐 Vala | 📅 2022-10-29 - Relax to soothing sounds of nature [:white\_check\_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
+* [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 31 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
 * [eRadio](https://github.com/DreamDevel/eRadio) ⭐ 31 | 🐛 12 | 🌐 Vala | 📅 2020-01-11 - A minimalist and powerful radio player
-* [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 30 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
 * [ellyrics](https://github.com/mkinitcpio/ellyrics) ⭐ 1 | 🐛 0 | 🌐 Vala | 📅 2018-03-13 - Song lyrics search application
 * [Karim](https://github.com/robertsanseries/karim) - Graphical interface for command-line tool youtube-dl
 * [Metronome](https://launchpad.net/metronome) - A simple click [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,734 | 🐛 189 | 🌐 Vala | 📅 2026-10-06 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,207 | 🐛 47 | 🌐 Vala | 📅 2026-10-06 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,733 | 🐛 187 | 🌐 Vala | 📅 2026-10-07 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,207 | 🐛 47 | 🌐 Vala | 📅 2026-10-07 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 630 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

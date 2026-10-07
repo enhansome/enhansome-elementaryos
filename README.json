@@ -203,7 +203,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A fork of https://launchpad.net/writer",
+                "description": "A word processor designed for elementary OS",
                 "homepage": null,
                 "id": 151196858,
                 "language": "Vala",
@@ -718,7 +718,7 @@
                 "open_issues": 18,
                 "owner": "artemanufrij",
                 "repo": "regextester",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "regex",
                   "tester",
@@ -1709,11 +1709,11 @@
                 "id": 156989873,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T03:59:48Z",
+                "last_commit": "2026-10-06T21:51:23Z",
                 "open_issues": 39,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1782,6 +1782,32 @@
             },
             {
               "node_type": "item",
+              "title": "Cinema",
+              "description": "A video player for watching local video files :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "http://anufrij.org/cinema",
+                "id": 108672696,
+                "language": "Vala",
+                "license": null,
+                "last_commit": "2020-11-17T22:01:07Z",
+                "open_issues": 17,
+                "owner": "artemanufrij",
+                "repo": "playmyvideos",
+                "stars": 31,
+                "topics": [
+                  "linux",
+                  "player",
+                  "vala",
+                  "video"
+                ]
+              },
+              "first_seen": "2026-08-28T22:59:42.867Z"
+            },
+            {
+              "node_type": "item",
               "title": "eRadio",
               "description": "A minimalist and powerful radio player",
               "children": [],
@@ -1798,32 +1824,6 @@
                 "repo": "eRadio",
                 "stars": 31,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T22:59:42.867Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Cinema",
-              "description": "A video player for watching local video files :white_check_mark:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An elementary OS app",
-                "homepage": "http://anufrij.org/cinema",
-                "id": 108672696,
-                "language": "Vala",
-                "license": null,
-                "last_commit": "2020-11-17T22:01:07Z",
-                "open_issues": 17,
-                "owner": "artemanufrij",
-                "repo": "playmyvideos",
-                "stars": 30,
-                "topics": [
-                  "linux",
-                  "player",
-                  "vala",
-                  "video"
-                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T17:15:57Z",
-                "open_issues": 189,
+                "last_commit": "2026-10-07T12:48:06Z",
+                "open_issues": 187,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5734,
+                "stars": 5733,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T14:23:33Z",
+                "last_commit": "2026-10-07T15:16:31Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:52:30.196Z",
+    "last_updated": "2026-10-07T19:18:02.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
