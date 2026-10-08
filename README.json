@@ -208,8 +208,8 @@
                 "id": 151196858,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T15:18:25Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-08T13:55:49Z",
+                "open_issues": 24,
                 "owner": "elework",
                 "repo": "writer",
                 "stars": 25,
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5344,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2845,
+                "stars": 2846,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1713,7 +1713,7 @@
                 "open_issues": 39,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T12:48:06Z",
-                "open_issues": 187,
+                "last_commit": "2026-10-08T13:15:42Z",
+                "open_issues": 185,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5733,
+                "stars": 5732,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T15:16:31Z",
+                "last_commit": "2026-10-08T14:09:57Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -2082,8 +2082,8 @@
                 "id": 89137555,
                 "language": "Vala",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:29:15Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-08T13:53:47Z",
+                "open_issues": 26,
                 "owner": "elework",
                 "repo": "Spreadsheet",
                 "stars": 77,
@@ -2339,7 +2339,7 @@
                 "open_issues": 2,
                 "owner": "hectorm",
                 "repo": "elementary-dropbox",
-                "stars": 434,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4751,
+                "stars": 4750,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:18:02.441Z",
+    "last_updated": "2026-10-08T19:14:31.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
