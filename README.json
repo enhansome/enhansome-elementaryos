@@ -560,7 +560,7 @@
                 "open_issues": 45,
                 "owner": "donadigo",
                 "repo": "appeditor",
-                "stars": 219,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -584,11 +584,11 @@
                 "id": 99072637,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T10:46:55Z",
+                "last_commit": "2026-10-11T06:09:24Z",
                 "open_issues": 68,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
-                "stars": 844,
+                "stars": 843,
                 "topics": [
                   "appcenter",
                   "debian",
@@ -1015,7 +1015,7 @@
                 "language": "Blueprint",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-10T09:21:44Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "cassidyjames",
                 "repo": "dippi",
                 "stars": 93,
@@ -1215,7 +1215,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1876,7 +1876,7 @@
                 "open_issues": 186,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5734,
+                "stars": 5738,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T04:19:36Z",
+                "last_commit": "2026-10-11T03:37:41Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -2471,7 +2471,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-10T16:36:20Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 360,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:46:56.043Z",
+    "last_updated": "2026-10-11T17:59:36.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
