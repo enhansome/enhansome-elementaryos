@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 517,592 | 🐛 105 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 518,130 | 🐛 105 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -48,7 +48,7 @@
 
 ### Accessories
 
-* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,384 | 🐛 145 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
+* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 145 | 🌐 Vala | 📅 2026-08-13 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 * [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 216 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
 * [Eddy](https://github.com/donadigo/eddy) ⭐ 187 | 🐛 29 | 🌐 Vala | 📅 2023-08-07 - Simple debian package installer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 * [Clipped](https://github.com/davidmhewitt/clipped) ⭐ 99 | 🐛 32 | 🌐 Vala | 📅 2021-08-31 - Manage your clipboard with ease
@@ -106,9 +106,9 @@
 
 ### Design
 
-* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,346 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
+* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,345 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
 * [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 106 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
-* [Dippi](https://github.com/cassidyjames/dippi) ⭐ 93 | 🐛 8 | 🌐 Blueprint | 📅 2026-10-10 - Calculate display info like DPI and aspect ratio [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
+* [Dippi](https://github.com/cassidyjames/dippi) ⭐ 93 | 🐛 9 | 🌐 Blueprint | 📅 2026-10-12 - Calculate display info like DPI and aspect ratio [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 * [Harvey](https://github.com/danrabbit/harvey) ⭐ 56 | 🐛 6 | 🌐 Vala | 📅 2024-08-29 - A color contrast checker [:white\_check\_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
 * [Lookbook](https://github.com/danrabbit/lookbook) ⚠️ Archived - Browse and find system icons
 * [Principles](https://github.com/cassidyjames/principles) ⚠️ Archived - Remember Dieter Rams' ten principles of good design [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.principles.desktop)
@@ -151,9 +151,9 @@
 
 ### Multimedia
 
-* [Cozy](https://github.com/geigi/cozy) ⭐ 1,211 | 🐛 112 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
+* [Cozy](https://github.com/geigi/cozy) ⭐ 1,212 | 🐛 111 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
-* [Reco](https://github.com/ryonakano/reco) ⭐ 129 | 🐛 39 | 🌐 Vala | 📅 2026-10-06 - Audio recording app
+* [Reco](https://github.com/ryonakano/reco) ⭐ 128 | 🐛 39 | 🌐 Vala | 📅 2026-10-06 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 44 | 🐛 8 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 * [Tranqil](https://github.com/nick92/tranqil) ⭐ 33 | 🐛 13 | 🌐 Vala | 📅 2022-10-29 - Relax to soothing sounds of nature [:white\_check\_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
 * [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 31 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,738 | 🐛 186 | 🌐 Vala | 📅 2026-10-08 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,208 | 🐛 47 | 🌐 Vala | 📅 2026-10-11 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,745 | 🐛 187 | 🌐 Vala | 📅 2026-10-08 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,208 | 🐛 49 | 🌐 Vala | 📅 2026-10-12 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 630 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 360 | 🐛 50 | 🌐 Vala | 📅 2026-10-10 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 360 | 🐛 47 | 🌐 Vala | 📅 2026-10-12 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 211 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
