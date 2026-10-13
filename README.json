@@ -68,7 +68,7 @@
                 "open_issues": 29,
                 "owner": "donadigo",
                 "repo": "eddy",
-                "stars": 187,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -247,33 +247,6 @@
             },
             {
               "node_type": "item",
-              "title": "Translator",
-              "description": "Translator app :white_check_mark:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Translator for Elementary OS",
-                "homepage": null,
-                "id": 92586223,
-                "language": "Vala",
-                "license": null,
-                "last_commit": "2021-03-25T17:17:26Z",
-                "open_issues": 19,
-                "owner": "RapidFingers",
-                "repo": "Translator",
-                "stars": 17,
-                "topics": [
-                  "desktop-app",
-                  "dictionary",
-                  "elementaryos",
-                  "linux",
-                  "translation"
-                ]
-              },
-              "first_seen": "2026-08-28T22:59:42.867Z"
-            },
-            {
-              "node_type": "item",
               "title": "Timer",
               "description": "The ultimate tea timer :white_check_mark:",
               "children": [],
@@ -290,6 +263,33 @@
                 "repo": "timer",
                 "stars": 16,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T22:59:42.867Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Translator",
+              "description": "Translator app :white_check_mark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Translator for Elementary OS",
+                "homepage": null,
+                "id": 92586223,
+                "language": "Vala",
+                "license": null,
+                "last_commit": "2021-03-25T17:17:26Z",
+                "open_issues": 19,
+                "owner": "RapidFingers",
+                "repo": "Translator",
+                "stars": 16,
+                "topics": [
+                  "desktop-app",
+                  "dictionary",
+                  "elementaryos",
+                  "linux",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -322,27 +322,6 @@
             },
             {
               "node_type": "item",
-              "title": "TrimDown",
-              "description": "A simple, feature rich, writing app for writing Novels, Short stories, Scripts and Articls",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An elementary OS app",
-                "homepage": null,
-                "id": 124539409,
-                "language": "Vala",
-                "license": null,
-                "last_commit": "2019-08-04T11:08:50Z",
-                "open_issues": 11,
-                "owner": "artemanufrij",
-                "repo": "trimdown",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:59:42.867Z"
-            },
-            {
-              "node_type": "item",
               "title": "Lottery",
               "description": "Who will be the winner? :white_check_mark:",
               "children": [],
@@ -361,6 +340,27 @@
                 "topics": [
                   "vala"
                 ]
+              },
+              "first_seen": "2026-08-28T22:59:42.867Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TrimDown",
+              "description": "A simple, feature rich, writing app for writing Novels, Short stories, Scripts and Articls",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An elementary OS app",
+                "homepage": null,
+                "id": 124539409,
+                "language": "Vala",
+                "license": null,
+                "last_commit": "2019-08-04T11:08:50Z",
+                "open_issues": 11,
+                "owner": "artemanufrij",
+                "repo": "trimdown",
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -462,7 +462,7 @@
                 "open_issues": 0,
                 "owner": "camellan",
                 "repo": "weather",
-                "stars": 3,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -560,7 +560,7 @@
                 "open_issues": 45,
                 "owner": "donadigo",
                 "repo": "appeditor",
-                "stars": 218,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -773,7 +773,7 @@
                 "open_issues": 7,
                 "owner": "unbelievableflavour",
                 "repo": "snaptastic",
-                "stars": 39,
+                "stars": 38,
                 "topics": [
                   "installer",
                   "snap",
@@ -799,7 +799,7 @@
                 "open_issues": 5,
                 "owner": "unbelievableflavour",
                 "repo": "alias",
-                "stars": 27,
+                "stars": 26,
                 "topics": [
                   "aliases",
                   "elementary-os",
@@ -1517,7 +1517,7 @@
                 "open_issues": 46,
                 "owner": "davidmhewitt",
                 "repo": "torrential",
-                "stars": 142,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T13:15:42Z",
-                "open_issues": 187,
+                "last_commit": "2026-10-13T16:37:32Z",
+                "open_issues": 183,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5745,
+                "stars": 5750,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T03:16:28Z",
+                "last_commit": "2026-10-13T00:34:11Z",
                 "open_issues": 49,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -1963,7 +1963,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 630,
+                "stars": 629,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -2060,7 +2060,7 @@
                 "open_issues": 16,
                 "owner": "dahenson",
                 "repo": "agenda",
-                "stars": 104,
+                "stars": 103,
                 "topics": [
                   "appcenter",
                   "elementaryos",
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4749,
+                "stars": 4750,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2470,11 +2470,11 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T14:01:13Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-13T19:26:05Z",
+                "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 360,
+                "stars": 359,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -2847,7 +2847,7 @@
             "open_issues": 12,
             "owner": "PlugaruT",
             "repo": "wingpanel-indicator-sys-monitor",
-            "stars": 85,
+            "stars": 84,
             "topics": [
               "elementary",
               "system-monitor",
@@ -2926,7 +2926,7 @@
             "open_issues": 3,
             "owner": "kunalkushwaha",
             "repo": "wingpanel-indicator-weather",
-            "stars": 17,
+            "stars": 16,
             "topics": [
               "elementary-os",
               "weather",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:41:54.667Z",
+    "last_updated": "2026-10-13T19:49:52.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
@@ -3146,7 +3146,7 @@
       "open_issues": 1,
       "owner": "kleinrein",
       "repo": "awesome-elementaryos",
-      "stars": 214,
+      "stars": 213,
       "topics": [
         "awesome-list",
         "awesomeness",
