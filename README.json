@@ -17,7 +17,7 @@
                 "id": 80118937,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-13T08:51:27Z",
+                "last_commit": "2026-10-14T13:33:41Z",
                 "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
@@ -588,7 +588,7 @@
                 "open_issues": 68,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "appcenter",
                   "debian",
@@ -1908,11 +1908,11 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T00:34:11Z",
+                "last_commit": "2026-10-14T14:09:35Z",
                 "open_issues": 49,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1208,
+                "stars": 1209,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -1963,7 +1963,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 629,
+                "stars": 628,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -2470,8 +2470,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T19:26:05Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-13T23:11:42Z",
+                "open_issues": 49,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 359,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:49:52.985Z",
+    "last_updated": "2026-10-14T17:57:15.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
