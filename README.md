@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 520,333 | 🐛 105 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 520,835 | 🐛 105 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -48,7 +48,7 @@
 
 ### Accessories
 
-* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 145 | 🌐 Vala | 📅 2026-10-14 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
+* [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,387 | 🐛 145 | 🌐 Vala | 📅 2026-10-14 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
 * [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 216 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
 * [Eddy](https://github.com/donadigo/eddy) ⭐ 186 | 🐛 29 | 🌐 Vala | 📅 2023-08-07 - Simple debian package installer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 * [Clipped](https://github.com/davidmhewitt/clipped) ⭐ 99 | 🐛 32 | 🌐 Vala | 📅 2021-08-31 - Manage your clipboard with ease
@@ -132,7 +132,7 @@
 
 ### Graphics
 
-* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 87 | 🐛 3 | 🌐 Vala | 📅 2026-09-23 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
+* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 88 | 🐛 3 | 🌐 Vala | 📅 2026-09-23 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
 * [Iconoscope](https://github.com/santileortiz/Iconoscope) ⭐ 15 | 🐛 5 | 🌐 C | 📅 2021-10-10 - Simple icon visualizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.santileortiz.iconoscope)
 * [Resizer](https://github.com/peteruithoven/resizer) ⭐ 15 | 🐛 8 | 🌐 Vala | 📅 2026-09-26 - Quickly resize images from the context menu [:white\_check\_mark:](https://appcenter.elementary.io/com.github.peteruithoven.resizer)
 * [Memories](https://github.com/artemanufrij/showmypictures) ⭐ 14 | 🐛 8 | 🌐 Vala | 📅 2020-09-03 - An image viewer for managing local image files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,752 | 🐛 182 | 🌐 Vala | 📅 2026-10-16 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,210 | 🐛 49 | 🌐 Vala | 📅 2026-10-17 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,755 | 🐛 183 | 🌐 Vala | 📅 2026-10-16 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,209 | 🐛 49 | 🌐 Vala | 📅 2026-10-17 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

@@ -21,7 +21,7 @@
                 "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1386,
+                "stars": 1387,
                 "topics": [
                   "bookworm",
                   "ebook-reader",
@@ -1388,7 +1388,7 @@
                 "open_issues": 3,
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "compression",
                   "desktop-app",
@@ -1873,10 +1873,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-16T20:22:10Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5752,
+                "stars": 5755,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1912,7 +1912,7 @@
                 "open_issues": 49,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:18:42.313Z",
+    "last_updated": "2026-10-18T16:27:52.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
