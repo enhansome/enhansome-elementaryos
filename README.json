@@ -21,7 +21,7 @@
                 "open_issues": 145,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1387,
+                "stars": 1386,
                 "topics": [
                   "bookworm",
                   "ebook-reader",
@@ -110,7 +110,7 @@
                 "open_issues": 14,
                 "owner": "danirabbit",
                 "repo": "nimbus",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "gweather"
                 ]
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5345,
+                "stars": 5346,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2849,
+                "stars": 2850,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1445,7 +1445,7 @@
                 "id": 118376664,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T22:35:49Z",
+                "last_commit": "2026-10-19T01:10:12Z",
                 "open_issues": 8,
                 "owner": "peteruithoven",
                 "repo": "resizer",
@@ -1713,7 +1713,7 @@
                 "open_issues": 39,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1873,10 +1873,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-16T20:22:10Z",
-                "open_issues": 183,
+                "open_issues": 182,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5755,
+                "stars": 5757,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2470,11 +2470,11 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T11:25:53Z",
+                "last_commit": "2026-10-18T20:04:21Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:27:52.607Z",
+    "last_updated": "2026-10-19T19:14:46.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
