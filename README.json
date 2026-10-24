@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2854,
+                "stars": 2855,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1876,7 +1876,7 @@
                 "open_issues": 193,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5763,
+                "stars": 5762,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4750,
+                "stars": 4749,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2474,7 +2474,7 @@
                 "open_issues": 46,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 360,
+                "stars": 359,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:50:11.585Z",
+    "last_updated": "2026-10-24T16:31:53.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
