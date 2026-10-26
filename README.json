@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5349,
+                "stars": 5348,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1018,7 +1018,7 @@
                 "open_issues": 9,
                 "owner": "cassidyjames",
                 "repo": "dippi",
-                "stars": 93,
+                "stars": 92,
                 "topics": [
                   "adwaita",
                   "displays",
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2858,
+                "stars": 2861,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1713,7 +1713,7 @@
                 "open_issues": 39,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T17:09:47Z",
-                "open_issues": 195,
+                "last_commit": "2026-10-26T14:53:35Z",
+                "open_issues": 204,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5766,
+                "stars": 5769,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T14:12:23Z",
+                "last_commit": "2026-10-26T15:34:55Z",
                 "open_issues": 49,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -2060,7 +2060,7 @@
                 "open_issues": 16,
                 "owner": "dahenson",
                 "repo": "agenda",
-                "stars": 104,
+                "stars": 103,
                 "topics": [
                   "appcenter",
                   "elementaryos",
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4748,
+                "stars": 4747,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2474,7 +2474,7 @@
                 "open_issues": 46,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 359,
+                "stars": 361,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:01:20.923Z",
+    "last_updated": "2026-10-26T19:10:19.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
