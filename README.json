@@ -47,7 +47,7 @@
                 "open_issues": 31,
                 "owner": "voldyman",
                 "repo": "MarkMyWords",
-                "stars": 216,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1646,7 +1646,7 @@
                 "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1212,
+                "stars": 1213,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1873,10 +1873,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T14:53:35Z",
-                "open_issues": 204,
+                "open_issues": 207,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5769,
+                "stars": 5770,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:10:19.982Z",
+    "last_updated": "2026-10-27T18:38:37.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
