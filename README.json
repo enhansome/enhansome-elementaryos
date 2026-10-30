@@ -18,7 +18,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-29T13:03:55Z",
-                "open_issues": 145,
+                "open_issues": 144,
                 "owner": "babluboy",
                 "repo": "bookworm",
                 "stars": 1387,
@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5349,
+                "stars": 5348,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1646,7 +1646,7 @@
                 "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1213,
+                "stars": 1212,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1710,7 +1710,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-06T21:51:23Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "ryonakano",
                 "repo": "reco",
                 "stars": 131,
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T14:53:35Z",
-                "open_issues": 210,
+                "last_commit": "2026-10-30T16:20:12Z",
+                "open_issues": 209,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5776,
+                "stars": 5780,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1909,10 +1909,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T15:34:55Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:55:06.617Z",
+    "last_updated": "2026-10-30T18:32:11.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
