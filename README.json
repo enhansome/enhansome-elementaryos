@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5348,
+                "stars": 5349,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2862,
+                "stars": 2864,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1872,8 +1872,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T16:20:12Z",
-                "open_issues": 209,
+                "last_commit": "2026-10-30T20:40:56Z",
+                "open_issues": 206,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5780,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:32:11.372Z",
+    "last_updated": "2026-10-31T17:38:23.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
