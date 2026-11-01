@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 527,906 | 🐛 105 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 528,425 | 🐛 105 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -87,7 +87,7 @@
 
 ### Development
 
-* [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 844 | 🐛 67 | 🌐 Vala | 📅 2026-10-14 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
+* [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 844 | 🐛 68 | 🌐 Vala | 📅 2026-11-01 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 * [quickDocs](https://github.com/mdh34/quickDocs) ⚠️ Archived - quickly read developer documentation [:white\_check\_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
 * [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 101 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - An unofficial elementary OS (Vala) oriented IDE
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,780 | 🐛 206 | 🌐 Vala | 📅 2026-10-30 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,782 | 🐛 207 | 🌐 Vala | 📅 2026-10-30 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,210 | 🐛 50 | 🌐 Vala | 📅 2026-10-26 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
