@@ -584,7 +584,7 @@
                 "id": 99072637,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T23:27:04Z",
+                "last_commit": "2026-11-02T22:51:26Z",
                 "open_issues": 67,
                 "owner": "ellie-commons",
                 "repo": "sequeler",
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2866,
+                "stars": 2867,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1876,7 +1876,7 @@
                 "open_issues": 208,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5782,
+                "stars": 5786,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1912,7 +1912,7 @@
                 "open_issues": 51,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1210,
+                "stars": 1211,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2471,7 +2471,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T06:12:41Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 362,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:16:15.382Z",
+    "last_updated": "2026-11-03T20:02:32.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
