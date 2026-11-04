@@ -967,7 +967,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5349,
+                "stars": 5348,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1517,7 +1517,7 @@
                 "open_issues": 46,
                 "owner": "davidmhewitt",
                 "repo": "torrential",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1646,7 +1646,7 @@
                 "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1213,
+                "stars": 1214,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1876,7 +1876,7 @@
                 "open_issues": 208,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5786,
+                "stars": 5785,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,11 +1908,11 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:34:55Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-04T17:07:50Z",
+                "open_issues": 52,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1211,
+                "stars": 1210,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2471,7 +2471,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T06:12:41Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 362,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:02:32.750Z",
+    "last_updated": "2026-11-04T20:22:47.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",

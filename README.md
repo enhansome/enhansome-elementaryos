@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 530,251 | 🐛 103 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 530,890 | 🐛 103 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -106,7 +106,7 @@
 
 ### Design
 
-* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,349 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
+* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,348 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
 * [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 106 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
 * [Dippi](https://github.com/cassidyjames/dippi) ⭐ 92 | 🐛 9 | 🌐 Blueprint | 📅 2026-10-12 - Calculate display info like DPI and aspect ratio [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 * [Harvey](https://github.com/danrabbit/harvey) ⭐ 56 | 🐛 6 | 🌐 Vala | 📅 2024-08-29 - A color contrast checker [:white\_check\_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
@@ -141,7 +141,7 @@
 
 ### Internet
 
-* [Torrential](https://github.com/davidmhewitt/torrential) ⭐ 141 | 🐛 46 | 🌐 Rust | 📅 2026-07-15 - Download torrents in style [:white\_check\_mark:](https://appcenter.elementary.io/com.github.davidmhewitt.torrential.desktop)
+* [Torrential](https://github.com/davidmhewitt/torrential) ⭐ 142 | 🐛 46 | 🌐 Rust | 📅 2026-07-15 - Download torrents in style [:white\_check\_mark:](https://appcenter.elementary.io/com.github.davidmhewitt.torrential.desktop)
 * [Webpin](https://github.com/artemanufrij/webpin) ⭐ 82 | 🐛 59 | 🌐 Vala | 📅 2022-01-18 - A simple app to pin websites on the desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.webpin.desktop)
 * [Firefox elementary Theme](https://github.com/harveycabaguio/firefox-elementary-theme) ⭐ 79 | 🐛 18 | 🌐 CSS | 📅 2018-07-12 - A theme for Firefox with elementary OS appearence
 * [Odysseus](https://github.com/alcinnz/Odysseus) ⚠️ Archived - A simple and performant browser yet powerful elementary OS-style window onto the open decentralized web [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alcinnz.odysseus.desktop)
@@ -151,7 +151,7 @@
 
 ### Multimedia
 
-* [Cozy](https://github.com/geigi/cozy) ⭐ 1,213 | 🐛 112 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
+* [Cozy](https://github.com/geigi/cozy) ⭐ 1,214 | 🐛 112 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
 * [Reco](https://github.com/ryonakano/reco) ⭐ 131 | 🐛 40 | 🌐 Vala | 📅 2026-10-06 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 45 | 🐛 7 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,786 | 🐛 208 | 🌐 Vala | 📅 2026-10-30 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,211 | 🐛 51 | 🌐 Vala | 📅 2026-10-26 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,785 | 🐛 208 | 🌐 Vala | 📅 2026-10-30 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,210 | 🐛 52 | 🌐 Vala | 📅 2026-11-04 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 47 | 🌐 Vala | 📅 2026-10-28 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 48 | 🌐 Vala | 📅 2026-10-28 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 211 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
