@@ -1876,7 +1876,7 @@
                 "open_issues": 209,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5785,
+                "stars": 5787,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1912,7 +1912,7 @@
                 "open_issues": 52,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1211,
+                "stars": 1213,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:35:56.169Z",
+    "last_updated": "2026-11-06T19:55:20.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
