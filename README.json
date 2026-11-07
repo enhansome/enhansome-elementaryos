@@ -21,7 +21,7 @@
                 "open_issues": 150,
                 "owner": "babluboy",
                 "repo": "bookworm",
-                "stars": 1387,
+                "stars": 1388,
                 "topics": [
                   "bookworm",
                   "ebook-reader",
@@ -967,7 +967,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5347,
+                "stars": 5348,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2868,
+                "stars": 2869,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1713,7 +1713,7 @@
                 "open_issues": 40,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T20:40:56Z",
-                "open_issues": 209,
+                "last_commit": "2026-11-07T12:55:17Z",
+                "open_issues": 211,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5787,
+                "stars": 5791,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4747,
+                "stars": 4746,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:55:20.798Z",
+    "last_updated": "2026-11-07T17:59:32.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
