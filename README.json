@@ -967,7 +967,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5348,
+                "stars": 5347,
                 "topics": [
                   "appcenter",
                   "design",
@@ -2011,7 +2011,7 @@
                 "open_issues": 21,
                 "owner": "Manuel-Kehl",
                 "repo": "Go-For-It",
-                "stars": 512,
+                "stars": 513,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T20:04:43Z",
+                "last_commit": "2026-11-08T10:57:20Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:59:32.580Z",
+    "last_updated": "2026-11-08T18:18:35.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
