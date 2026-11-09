@@ -1646,7 +1646,7 @@
                 "open_issues": 112,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1214,
+                "stars": 1212,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T12:55:17Z",
-                "open_issues": 211,
+                "last_commit": "2026-11-09T22:55:47Z",
+                "open_issues": 207,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5791,
+                "stars": 5792,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1909,10 +1909,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-05T02:51:23Z",
-                "open_issues": 52,
+                "open_issues": 48,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1213,
+                "stars": 1215,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4746,
+                "stars": 4745,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T10:57:20Z",
+                "last_commit": "2026-11-09T21:05:07Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:18:35.014Z",
+    "last_updated": "2026-11-09T22:57:09.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
