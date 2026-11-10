@@ -910,7 +910,7 @@
                 "open_issues": 8,
                 "owner": "basjam",
                 "repo": "ValaCompiler",
-                "stars": 10,
+                "stars": 9,
                 "topics": [
                   "gui",
                   "valac"
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T22:55:47Z",
-                "open_issues": 207,
+                "last_commit": "2026-11-10T16:26:03Z",
+                "open_issues": 205,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5792,
+                "stars": 5794,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T21:05:07Z",
+                "last_commit": "2026-11-10T01:32:33Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:57:09.608Z",
+    "last_updated": "2026-11-10T20:25:20.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
