@@ -17,8 +17,8 @@
                 "id": 80118937,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T13:03:55Z",
-                "open_issues": 150,
+                "last_commit": "2026-11-11T10:20:50Z",
+                "open_issues": 140,
                 "owner": "babluboy",
                 "repo": "bookworm",
                 "stars": 1388,
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1872,8 +1872,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T16:26:03Z",
-                "open_issues": 205,
+                "last_commit": "2026-11-11T17:18:58Z",
+                "open_issues": 191,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5794,
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T02:51:23Z",
+                "last_commit": "2026-11-11T20:06:42Z",
                 "open_issues": 48,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -1937,7 +1937,7 @@
                 "open_issues": 115,
                 "owner": "jangernert",
                 "repo": "FeedReader",
-                "stars": 767,
+                "stars": 768,
                 "topics": [
                   "feed-reader",
                   "flatpak-bundle",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:25:20.569Z",
+    "last_updated": "2026-11-11T20:07:55.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
