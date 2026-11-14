@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 536,386 | 🐛 104 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 536,843 | 🐛 104 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -87,9 +87,9 @@
 
 ### Development
 
-* [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 844 | 🐛 68 | 🌐 Vala | 📅 2026-11-12 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
+* [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 844 | 🐛 69 | 🌐 Vala | 📅 2026-11-13 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 * [quickDocs](https://github.com/mdh34/quickDocs) ⚠️ Archived - quickly read developer documentation [:white\_check\_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
-* [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 101 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
+* [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 102 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - An unofficial elementary OS (Vala) oriented IDE
 * [elementary-icons-template](https://github.com/micahilbery/elementary-icon-templates) ⭐ 71 | 🐛 0 | 📅 2020-10-12 - A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG
 * [RegEx Tester](https://github.com/artemanufrij/regextester) ⭐ 46 | 🐛 18 | 🌐 Vala | 📅 2023-02-28 - A simple regex tester [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,801 | 🐛 181 | 🌐 Vala | 📅 2026-11-13 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,802 | 🐛 182 | 🌐 Vala | 📅 2026-11-13 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,216 | 🐛 41 | 🌐 Vala | 📅 2026-11-13 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
