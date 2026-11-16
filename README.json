@@ -1385,7 +1385,7 @@
                 "language": "Vala",
                 "license": "MIT",
                 "last_commit": "2026-09-23T11:24:44Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "GijsGoudzwaard",
                 "repo": "Image-Optimizer",
                 "stars": 88,
@@ -1643,7 +1643,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-16T10:14:47Z",
-                "open_issues": 111,
+                "open_issues": 113,
                 "owner": "geigi",
                 "repo": "cozy",
                 "stars": 1213,
@@ -1713,7 +1713,7 @@
                 "open_issues": 40,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 132,
+                "stars": 133,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T23:58:44Z",
-                "open_issues": 182,
+                "last_commit": "2026-11-16T16:28:01Z",
+                "open_issues": 181,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5802,
+                "stars": 5806,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4743,
+                "stars": 4744,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:19:41.002Z",
+    "last_updated": "2026-11-16T22:50:21.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",

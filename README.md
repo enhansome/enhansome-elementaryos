@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 537,396 | 🐛 104 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 537,975 | 🐛 104 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -132,7 +132,7 @@
 
 ### Graphics
 
-* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 88 | 🐛 3 | 🌐 Vala | 📅 2026-09-23 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
+* [Image Optimizer](https://github.com/gijsgoudzwaard/image-optimizer) ⭐ 88 | 🐛 4 | 🌐 Vala | 📅 2026-09-23 - A simple image optimizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.gijsgoudzwaard.image-optimizer.desktop)
 * [Iconoscope](https://github.com/santileortiz/Iconoscope) ⭐ 15 | 🐛 5 | 🌐 C | 📅 2021-10-10 - Simple icon visualizer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.santileortiz.iconoscope)
 * [Resizer](https://github.com/peteruithoven/resizer) ⭐ 15 | 🐛 8 | 🌐 Vala | 📅 2026-10-19 - Quickly resize images from the context menu [:white\_check\_mark:](https://appcenter.elementary.io/com.github.peteruithoven.resizer)
 * [Memories](https://github.com/artemanufrij/showmypictures) ⭐ 14 | 🐛 8 | 🌐 Vala | 📅 2020-09-03 - An image viewer for managing local image files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.showmypictures)
@@ -151,9 +151,9 @@
 
 ### Multimedia
 
-* [Cozy](https://github.com/geigi/cozy) ⭐ 1,213 | 🐛 111 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
+* [Cozy](https://github.com/geigi/cozy) ⭐ 1,213 | 🐛 113 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
-* [Reco](https://github.com/ryonakano/reco) ⭐ 132 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recording app
+* [Reco](https://github.com/ryonakano/reco) ⭐ 133 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 45 | 🐛 7 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 * [Tranqil](https://github.com/nick92/tranqil) ⭐ 33 | 🐛 13 | 🌐 Vala | 📅 2022-10-29 - Relax to soothing sounds of nature [:white\_check\_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
 * [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 31 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,802 | 🐛 182 | 🌐 Vala | 📅 2026-11-13 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,806 | 🐛 181 | 🌐 Vala | 📅 2026-11-16 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,216 | 🐛 41 | 🌐 Vala | 📅 2026-11-13 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
