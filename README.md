@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 538,497 | 🐛 104 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 538,985 | 🐛 104 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -49,7 +49,7 @@
 ### Accessories
 
 * [Bookworm](https://github.com/babluboy/bookworm) ⭐ 1,388 | 🐛 139 | 🌐 Vala | 📅 2026-11-12 - A simple ebook reader [:white\_check\_mark:](https://appcenter.elementary.io/com.github.babluboy.bookworm.desktop)
-* [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 216 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
+* [MarkMyWords](https://github.com/voldyman/MarkMyWords) ⭐ 217 | 🐛 31 | 🌐 Vala | 📅 2021-01-18 - A minimal markdown editor
 * [Eddy](https://github.com/donadigo/eddy) ⭐ 186 | 🐛 29 | 🌐 Vala | 📅 2023-08-07 - Simple debian package installer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.donadigo.eddy.desktop)
 * [Clipped](https://github.com/davidmhewitt/clipped) ⭐ 99 | 🐛 32 | 🌐 Vala | 📅 2021-08-31 - Manage your clipboard with ease
 * [Nimbus](https://github.com/danrabbit/nimbus) ⭐ 84 | 🐛 14 | 🌐 Vala | 📅 2024-09-05 - A minimal weather applet [:white\_check\_mark:](https://appcenter.elementary.io/com.github.danrabbit.nimbus)
@@ -151,7 +151,7 @@
 
 ### Multimedia
 
-* [Cozy](https://github.com/geigi/cozy) ⭐ 1,213 | 🐛 113 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
+* [Cozy](https://github.com/geigi/cozy) ⭐ 1,214 | 🐛 113 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
 * [Reco](https://github.com/ryonakano/reco) ⭐ 133 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 45 | 🐛 7 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,806 | 🐛 177 | 🌐 Vala | 📅 2026-11-17 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,215 | 🐛 42 | 🌐 Vala | 📅 2026-11-13 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,805 | 🐛 178 | 🌐 Vala | 📅 2026-11-18 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,215 | 🐛 39 | 🌐 Vala | 📅 2026-11-13 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
