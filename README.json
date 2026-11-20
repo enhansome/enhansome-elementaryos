@@ -539,7 +539,7 @@
                 "open_issues": 11,
                 "owner": "elementary-tweaks",
                 "repo": "elementary-tweaks",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2877,
+                "stars": 2879,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1713,7 +1713,7 @@
                 "open_issues": 40,
                 "owner": "ryonakano",
                 "repo": "reco",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "audio-recorder",
                   "elementaryos",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T20:36:43Z",
-                "open_issues": 178,
+                "last_commit": "2026-11-19T23:13:33Z",
+                "open_issues": 177,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5805,
+                "stars": 5808,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1937,7 +1937,7 @@
                 "open_issues": 115,
                 "owner": "jangernert",
                 "repo": "FeedReader",
-                "stars": 767,
+                "stars": 766,
                 "topics": [
                   "feed-reader",
                   "flatpak-bundle",
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T20:05:01Z",
+                "last_commit": "2026-11-20T16:04:41Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:23:01.309Z",
+    "last_updated": "2026-11-20T21:00:02.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
