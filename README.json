@@ -967,7 +967,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5346,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2892,
+                "stars": 2895,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1646,7 +1646,7 @@
                 "open_issues": 113,
                 "owner": "geigi",
                 "repo": "cozy",
-                "stars": 1215,
+                "stars": 1216,
                 "topics": [
                   "archlinux",
                   "audio-book",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-23T16:43:43Z",
+                "last_commit": "2026-11-24T21:02:16Z",
                 "open_issues": 180,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5818,
+                "stars": 5819,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2470,7 +2470,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T16:04:41Z",
+                "last_commit": "2026-11-24T21:04:57Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:43:56.082Z",
+    "last_updated": "2026-11-24T22:58:40.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
