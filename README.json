@@ -212,7 +212,7 @@
                 "open_issues": 23,
                 "owner": "elework",
                 "repo": "writer",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -462,7 +462,7 @@
                 "open_issues": 0,
                 "owner": "camellan",
                 "repo": "weather",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -539,7 +539,7 @@
                 "open_issues": 11,
                 "owner": "elementary-tweaks",
                 "repo": "elementary-tweaks",
-                "stars": 599,
+                "stars": 600,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -967,7 +967,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5345,
+                "stars": 5346,
                 "topics": [
                   "appcenter",
                   "design",
@@ -997,7 +997,7 @@
                 "open_issues": 32,
                 "owner": "RonnyDo",
                 "repo": "ColorPicker",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2886,
+                "stars": 2892,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1782,6 +1782,27 @@
             },
             {
               "node_type": "item",
+              "title": "eRadio",
+              "description": "A minimalist and powerful radio player",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A minimalist and powerful radio player for elementary OS Loki",
+                "homepage": null,
+                "id": 24555275,
+                "language": "Vala",
+                "license": "GPL-3.0",
+                "last_commit": "2020-01-11T17:45:47Z",
+                "open_issues": 12,
+                "owner": "DreamDevel",
+                "repo": "eRadio",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:59:42.867Z"
+            },
+            {
+              "node_type": "item",
               "title": "Cinema",
               "description": "A video player for watching local video files :white_check_mark:",
               "children": [],
@@ -1803,27 +1824,6 @@
                   "vala",
                   "video"
                 ]
-              },
-              "first_seen": "2026-08-28T22:59:42.867Z"
-            },
-            {
-              "node_type": "item",
-              "title": "eRadio",
-              "description": "A minimalist and powerful radio player",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A minimalist and powerful radio player for elementary OS Loki",
-                "homepage": null,
-                "id": 24555275,
-                "language": "Vala",
-                "license": "GPL-3.0",
-                "last_commit": "2020-01-11T17:45:47Z",
-                "open_issues": 12,
-                "owner": "DreamDevel",
-                "repo": "eRadio",
-                "stars": 31,
-                "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
             },
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T23:13:33Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-23T16:43:43Z",
+                "open_issues": 180,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5815,
+                "stars": 5818,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -2086,7 +2086,7 @@
                 "open_issues": 25,
                 "owner": "elework",
                 "repo": "Spreadsheet",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "elementaryos",
                   "gtk",
@@ -2339,7 +2339,7 @@
                 "open_issues": 2,
                 "owner": "hectorm",
                 "repo": "elementary-dropbox",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2453,7 +2453,7 @@
                 "open_issues": 453,
                 "owner": "teejee2008",
                 "repo": "timeshift",
-                "stars": 4743,
+                "stars": 4744,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2474,7 +2474,7 @@
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -2744,7 +2744,7 @@
                 "open_issues": 108,
                 "owner": "Manuel-Kehl",
                 "repo": "elementaryPlus",
-                "stars": 357,
+                "stars": 358,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2765,7 +2765,7 @@
                 "open_issues": 7,
                 "owner": "surajmandalcell",
                 "repo": "elementary-x",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "desktop",
                   "desktop-environment",
@@ -2794,7 +2794,7 @@
                 "open_issues": 18,
                 "owner": "btd1337",
                 "repo": "urutau-icons",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2826,7 +2826,7 @@
             "open_issues": 12,
             "owner": "donadigo",
             "repo": "wingpanel-indicator-namarupa",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T22:59:42.867Z"
@@ -2847,7 +2847,7 @@
             "open_issues": 12,
             "owner": "PlugaruT",
             "repo": "wingpanel-indicator-sys-monitor",
-            "stars": 84,
+            "stars": 85,
             "topics": [
               "elementary",
               "system-monitor",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:16:50.378Z",
+    "last_updated": "2026-11-24T00:43:56.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
@@ -3146,7 +3146,7 @@
       "open_issues": 1,
       "owner": "kleinrein",
       "repo": "awesome-elementaryos",
-      "stars": 214,
+      "stars": 215,
       "topics": [
         "awesome-list",
         "awesomeness",

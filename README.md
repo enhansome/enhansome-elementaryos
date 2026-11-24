@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 541,022 | 🐛 103 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 541,669 | 🐛 103 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -56,7 +56,7 @@
 * [Image Burner](https://github.com/artemanufrij/imageburner) ⭐ 42 | 🐛 18 | 🌐 Vala | 📅 2020-10-25 - A simple imageburner inspired by Etcher's UI [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.imageburner)
 * [Screencast](https://github.com/artemanufrij/screencast) ⭐ 34 | 🐛 20 | 🌐 Vala | 📅 2020-11-17 - A simple screencast recorder [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.screencast)
 * [Lights-Up](https://github.com/Philip-Scott/Lights-Up) ⭐ 27 | 🐛 5 | 🌐 Vala | 📅 2022-04-23 - Control Philips Hue lights from your elementary OS desktop
-* [Writer](https://github.com/ryonakano/writer) ⭐ 25 | 🐛 23 | 🌐 Vala | 📅 2026-10-08 - Word processor
+* [Writer](https://github.com/ryonakano/writer) ⭐ 26 | 🐛 23 | 🌐 Vala | 📅 2026-10-08 - Word processor
 * [Cipher](https://github.com/arshubham/cipher) ⭐ 19 | 🐛 9 | 🌐 Vala | 📅 2022-07-18 - Encode and decode text [:white\_check\_mark:](https://appcenter.elementary.io/com.github.arshubham.cipher.desktop)
 * [Timer](https://github.com/parnold-x/timer) ⚠️ Archived - The ultimate tea timer [:white\_check\_mark:](https://appcenter.elementary.io/com.github.parnold-x.timer)
 * [Translator](https://github.com/RapidFingers/Translator) ⭐ 16 | 🐛 19 | 🌐 Vala | 📅 2021-03-25 - Translator app [:white\_check\_mark:](https://appcenter.elementary.io/com.github.rapidfingers.translator.desktop)
@@ -66,7 +66,7 @@
 * [Translit](https://github.com/artemanufrij/translit) ⭐ 9 | 🐛 2 | 🌐 Vala | 📅 2020-10-25 - Translit is a method of encoding Cyrillic letters with Latin ones [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.translit)
 * [La Nova Reta Vortaro](https://github.com/nova-reta-vortaro/nrv-gtk) ⭐ 7 | 🐛 0 | 🌐 Vala | 📅 2018-03-11 - Modern esperanto dictionnary
 * [Nutrition](https://github.com/AnderRasoVazquez/nutrition) ⭐ 5 | 🐛 0 | 🌐 Vala | 📅 2018-02-13 - USDA Food Composition Database searcher
-* [Weather](https://github.com/camellan/weather) ⭐ 2 | 🐛 0 | 🌐 Vala | 📅 2018-09-09 - A forecast application using OpenWeatherMap API [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bitseater.weather)
+* [Weather](https://github.com/camellan/weather) ⭐ 3 | 🐛 0 | 🌐 Vala | 📅 2018-09-09 - A forecast application using OpenWeatherMap API [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bitseater.weather)
 * [Neumann](https://github.com/ibraheem-moosa/neumann) ⭐ 0 | 🐛 0 | 🌐 Vala | 📅 2018-06-01 - Show 4 digit random numbers on button click.
 * [Coin](https://github.com/lainsce/coin/) - Track the virtual currencies in real world currency value with this handy applet [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.coin.desktop)
 * [Eidete](https://launchpad.net/eidete) - A simple screencasting app
@@ -106,8 +106,8 @@
 
 ### Design
 
-* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,345 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
-* [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 106 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
+* [Akira](https://github.com/Alecaddd/Akira) ⭐ 5,346 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 - Native Linux App for UI and UX Design built in Vala and Gtk [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.akira)
+* [Color Picker](https://github.com/RonnyDo/ColorPicker) ⭐ 107 | 🐛 32 | 🌐 Vala | 📅 2021-08-07 - The most intiutive Color Picker to speed up your workflow [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.colorpicker.desktop)
 * [Dippi](https://github.com/cassidyjames/dippi) ⭐ 92 | 🐛 9 | 🌐 Blueprint | 📅 2026-10-12 - Calculate display info like DPI and aspect ratio [:white\_check\_mark:](https://appcenter.elementary.io/com.github.cassidyjames.dippi)
 * [Harvey](https://github.com/danrabbit/harvey) ⭐ 56 | 🐛 6 | 🌐 Vala | 📅 2024-08-29 - A color contrast checker [:white\_check\_mark:](https://appcenter.elementary.io/com.github.danrabbit.harvey)
 * [Lookbook](https://github.com/danrabbit/lookbook) ⚠️ Archived - Browse and find system icons
@@ -156,8 +156,8 @@
 * [Reco](https://github.com/ryonakano/reco) ⭐ 134 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 45 | 🐛 7 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 * [Tranqil](https://github.com/nick92/tranqil) ⭐ 33 | 🐛 13 | 🌐 Vala | 📅 2022-10-29 - Relax to soothing sounds of nature [:white\_check\_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
+* [eRadio](https://github.com/DreamDevel/eRadio) ⭐ 32 | 🐛 12 | 🌐 Vala | 📅 2020-01-11 - A minimalist and powerful radio player
 * [Cinema](https://github.com/artemanufrij/playmyvideos) ⭐ 31 | 🐛 17 | 🌐 Vala | 📅 2020-11-17 - A video player for watching local video files [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.playmyvideos)
-* [eRadio](https://github.com/DreamDevel/eRadio) ⭐ 31 | 🐛 12 | 🌐 Vala | 📅 2020-01-11 - A minimalist and powerful radio player
 * [ellyrics](https://github.com/mkinitcpio/ellyrics) ⭐ 1 | 🐛 0 | 🌐 Vala | 📅 2018-03-13 - Song lyrics search application
 * [Karim](https://github.com/robertsanseries/karim) - Graphical interface for command-line tool youtube-dl
 * [Metronome](https://launchpad.net/metronome) - A simple click [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.metronome.desktop)
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,815 | 🐛 177 | 🌐 Vala | 📅 2026-11-19 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,818 | 🐛 180 | 🌐 Vala | 📅 2026-11-23 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,214 | 🐛 39 | 🌐 Vala | 📅 2026-11-22 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -174,7 +174,7 @@
 * [Go For It](https://github.com/mank319/Go-For-It) ⭐ 513 | 🐛 21 | 🌐 Vala | 📅 2021-11-07 - A stylish to-do list with built-in productivity timer
 * [Quilter](https://github.com/lainsce/quilter/) ⚠️ Archived - Focus on your writing [:white\_check\_mark:](https://appcenter.elementary.io/com.github.lainsce.quilter.desktop)
 * [Agenda](https://github.com/dahenson/agenda) ⭐ 103 | 🐛 16 | 🌐 Vala | 📅 2026-05-20 - A simple, fast, no-nonsense to-do (task) list.
-* [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 77 | 🐛 25 | 🌐 Vala | 📅 2026-10-08 - A spreadsheet app
+* [Spreadsheet](https://github.com/BaptisteGelez/Spreadsheet) ⭐ 78 | 🐛 25 | 🌐 Vala | 📅 2026-10-08 - A spreadsheet app
 * [Workspaces](https://github.com/DevAlien/workspaces) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2021-02-21 - Workspaces lets you configure and quickly launch all you need to work on a project [:white\_check\_mark:](https://appcenter.elementary.io/com.github.devalien.workspaces)
 * [Hackup](https://github.com/mdh34/hackup) ⚠️ Archived - Read Hacker News from the desktop
 * [Coffee](https://github.com/nick92/coffee) ⭐ 42 | 🐛 14 | 🌐 Vala | 📅 2019-11-14 - Keep up-to-date with current news and weather with Coffee
@@ -212,7 +212,7 @@
 ### System Tools
 
 * [Timeshift](https://github.com/teejee2008/timeshift) ⚠️ Archived - System restore tool for Linux
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 361 | 🐛 48 | 🌐 Vala | 📅 2026-11-20 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 48 | 🌐 Vala | 📅 2026-11-20 - Manage processes and monitor system resources [:white\_check\_mark:](https://appcenter.elementary.io/com.github.stsdc.monitor.desktop)
 * [Desktop Folder](https://github.com/spheras/desktopfolder) ⭐ 211 | 🐛 76 | 🌐 Vala | 📅 2022-11-07 - Bring your desktop back to life [:white\_check\_mark:](https://appcenter.elementary.io/com.github.spheras.desktopfolder.desktop)
 * [Wammer](https://github.com/RonnyDo/Wammer) ⭐ 34 | 🐛 6 | 🌐 Vala | 📅 2020-05-19 - Jamming your WiFi network [:white\_check\_mark:](https://appcenter.elementary.io/com.github.ronnydo.wammer.desktop)
 * [Bookmark Manager](https://github.com/bartzaalberg/bookmark-manager) ⚠️ Archived - Manager for your ssh configs [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.bookmark-manager)
@@ -229,14 +229,14 @@
 
 ### Theming
 
-* [elementaryPlus](https://github.com/mank319/elementaryPlus) ⭐ 357 | 🐛 108 | 🌐 Python | 📅 2018-01-02 - elementaryPlus is a community maintained addition to elementary OS's default icon theme
-* [elementary X](https://github.com/surajmandalcell/elementary-x) ⭐ 297 | 🐛 7 | 🌐 CSS | 📅 2023-02-05 - Original elementary theme with some tweaks and OS X window controls
-* [Uratau Icons](https://github.com/btd1337/urutau-icons) ⭐ 115 | 🐛 18 | 🌐 Shell | 📅 2019-11-02 - The most complete icon package for third-party applications with elementary OS design
+* [elementaryPlus](https://github.com/mank319/elementaryPlus) ⭐ 358 | 🐛 108 | 🌐 Python | 📅 2018-01-02 - elementaryPlus is a community maintained addition to elementary OS's default icon theme
+* [elementary X](https://github.com/surajmandalcell/elementary-x) ⭐ 298 | 🐛 7 | 🌐 CSS | 📅 2023-02-05 - Original elementary theme with some tweaks and OS X window controls
+* [Uratau Icons](https://github.com/btd1337/urutau-icons) ⭐ 116 | 🐛 18 | 🌐 Shell | 📅 2019-11-02 - The most complete icon package for third-party applications with elementary OS design
 
 ## Wingpanel Indicators
 
-* [Namarupa](https://github.com/donadigo/wingpanel-indicator-namarupa) ⭐ 95 | 🐛 12 | 🌐 Vala | 📅 2021-11-21 - Unofficial Ayatana compatibility layer for wingpanel
-* [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) ⭐ 84 | 🐛 12 | 🌐 Vala | 📅 2020-03-27 - System monitor indicator for Wingpanel
+* [Namarupa](https://github.com/donadigo/wingpanel-indicator-namarupa) ⭐ 96 | 🐛 12 | 🌐 Vala | 📅 2021-11-21 - Unofficial Ayatana compatibility layer for wingpanel
+* [Sys-Monitor](https://github.com/PlugaruT/wingpanel-indicator-sys-monitor) ⭐ 85 | 🐛 12 | 🌐 Vala | 📅 2020-03-27 - System monitor indicator for Wingpanel
 * [Hottoe](https://github.com/gandalfn/hottoe) ⭐ 30 | 🐛 7 | 🌐 Vala | 📅 2018-06-28 - Hottoe is an application which can control sound devices.
 * [Synapse](https://github.com/tom95/indicator-synapse) ⭐ 28 | 🐛 4 | 🌐 Vala | 📅 2025-10-18 - Finds apps, files and directories via an intuitive fluent indicator
 * [Weather](https://github.com/kunalkushwaha/wingpanel-indicator-weather) ⭐ 16 | 🐛 3 | 🌐 CMake | 📅 2018-04-25 - Weather app indicator for elementary OS
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
