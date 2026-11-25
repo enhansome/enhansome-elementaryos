@@ -646,7 +646,7 @@
                 "open_issues": 33,
                 "owner": "vala-lang",
                 "repo": "vala-lint",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -910,7 +910,7 @@
                 "open_issues": 8,
                 "owner": "basjam",
                 "repo": "ValaCompiler",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "gui",
                   "valac"
@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2895,
+                "stars": 2896,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T21:02:16Z",
-                "open_issues": 180,
+                "last_commit": "2026-11-25T21:52:56Z",
+                "open_issues": 179,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5819,
+                "stars": 5820,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1908,7 +1908,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-22T04:12:48Z",
+                "last_commit": "2026-11-25T15:03:21Z",
                 "open_issues": 39,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:58:40.568Z",
+    "last_updated": "2026-11-25T22:24:05.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",

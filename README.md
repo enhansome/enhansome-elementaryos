@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 542,301 | 🐛 103 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 542,793 | 🐛 103 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -89,7 +89,7 @@
 
 * [Sequeler](https://github.com/Alecaddd/sequeler) ⭐ 844 | 🐛 67 | 🌐 Vala | 📅 2026-11-22 - Friendly SQL Client [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alecaddd.sequeler.desktop)
 * [quickDocs](https://github.com/mdh34/quickDocs) ⚠️ Archived - quickly read developer documentation [:white\_check\_mark:](https://appcenter.elementary.io/com.github.mdh34.quickdocs)
-* [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 102 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
+* [Vala Lint](https://github.com/elementary/vala-lint) ⭐ 103 | 🐛 33 | 🌐 Vala | 📅 2026-09-04 - Check code-style of Vala code files
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - An unofficial elementary OS (Vala) oriented IDE
 * [elementary-icons-template](https://github.com/micahilbery/elementary-icon-templates) ⭐ 71 | 🐛 0 | 📅 2020-10-12 - A set of template icons for more quickly making third-party application icons with standard shapes that fit with the elementary HIG
 * [RegEx Tester](https://github.com/artemanufrij/regextester) ⭐ 46 | 🐛 18 | 🌐 Vala | 📅 2023-02-28 - A simple regex tester [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.regextester)
@@ -99,7 +99,7 @@
 * [PHP Tester](https://github.com/bartzaalberg/php-tester) ⚠️ Archived - Test your PHP code easily [:white\_check\_mark:](https://appcenter.elementary.io/com.github.bartzaalberg.php-tester.desktop)
 * [Vanat](https://github.com/vanat/vanat) ⭐ 14 | 🐛 4 | 🌐 Vala | 📅 2021-09-25 - Dependency Manager for Vala
 * [Web Watcher](https://github.com/kjlaw89/webwatcher) ⚠️ Archived - Know when your websites are misbehaving [:white\_check\_mark:](https://appcenter.elementary.io/com.github.kjlaw89.webwatcher.desktop)
-* [ValaCompiler](https://github.com/basjam/ValaCompiler/) ⭐ 9 | 🐛 8 | 🌐 Vala | 📅 2020-10-25 - A simple GUI for valac [:white\_check\_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
+* [ValaCompiler](https://github.com/basjam/ValaCompiler/) ⭐ 10 | 🐛 8 | 🌐 Vala | 📅 2020-10-25 - A simple GUI for valac [:white\_check\_mark:](https://appcenter.elementary.io/com.github.basjam.valacompiler.desktop)
 * [File Conflicts Finder](https://github.com/artemanufrij/findfileconflicts) ⭐ 7 | 🐛 5 | 🌐 Vala | 📅 2020-11-17 - Helps to find file names which could have conflicts on Windows [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.findfileconflicts)
 * [GraphUI](http://anufrij.org/) - Graph Visualization [:white\_check\_mark:](https://appcenter.elementary.io/com.github.artemanufrij.graphui.desktop)
 * [URM Simulator](https://github.com/aleksandar-stefanovic/urmsimulator) - Unlimited programming potential [:white\_check\_mark:](https://appcenter.elementary.io/com.github.aleksandar-stefanovic.urmsimulator.desktop)
@@ -166,8 +166,8 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,819 | 🐛 180 | 🌐 Vala | 📅 2026-11-24 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,214 | 🐛 39 | 🌐 Vala | 📅 2026-11-22 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,820 | 🐛 179 | 🌐 Vala | 📅 2026-11-25 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,214 | 🐛 39 | 🌐 Vala | 📅 2026-11-25 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Create simple and beautiful presentations on the Linux desktop [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.spice-up)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
