@@ -1215,7 +1215,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2896,
+                "stars": 2897,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T21:52:56Z",
-                "open_issues": 179,
+                "last_commit": "2026-11-26T18:46:24Z",
+                "open_issues": 178,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5820,
+                "stars": 5822,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1963,7 +1963,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -1990,7 +1990,7 @@
                 "open_issues": 53,
                 "owner": "Philip-Scott",
                 "repo": "Spice-up",
-                "stars": 605,
+                "stars": 606,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:59:42.867Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:24:05.727Z",
+    "last_updated": "2026-11-26T22:14:25.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
