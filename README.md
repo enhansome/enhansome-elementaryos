@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 543,381 | 🐛 103 | 📅 2026-09-02
+* [Awesome elementary OS!](https://github.com/sindresorhus/awesome) ⭐ 543,920 | 🐛 103 | 📅 2026-09-02
   * [Table of Contents](#table-of-contents)
   * [Applications](#applications)
     * [Accessories](#accessories)
@@ -153,7 +153,7 @@
 
 * [Cozy](https://github.com/geigi/cozy) ⭐ 1,216 | 🐛 113 | 🌐 Python | 📅 2026-07-16 - A modern audio book player [:white\_check\_mark:](https://appcenter.elementary.io/com.github.geigi.cozy.desktop)
 * [Gradio](https://github.com/haecker-felix/Gradio) ⚠️ Archived - A app for finding and listening to internet radio stations
-* [Reco](https://github.com/ryonakano/reco) ⭐ 134 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recording app
+* [Reco](https://github.com/ryonakano/reco) ⭐ 134 | 🐛 41 | 🌐 Vala | 📅 2026-11-04 - Audio recording app
 * [Mixer](https://github.com/childishgiant/mixer) ⭐ 45 | 🐛 7 | 🌐 Vala | 📅 2024-08-21 - A no-frills volume mixer, with simplicity and usability at its core. [:white\_check\_mark:](https://appcenter.elementary.io/com.github.childishgiant.mixer/)
 * [Tranqil](https://github.com/nick92/tranqil) ⭐ 33 | 🐛 13 | 🌐 Vala | 📅 2022-10-29 - Relax to soothing sounds of nature [:white\_check\_mark:](https://appcenter.elementary.io/com.github.nick92.tranqil.desktop)
 * [eRadio](https://github.com/DreamDevel/eRadio) ⭐ 32 | 🐛 12 | 🌐 Vala | 📅 2020-01-11 - A minimalist and powerful radio player
@@ -166,7 +166,7 @@
 
 ### Productivity
 
-* [Planner](https://github.com/alainm23/planner) ⭐ 5,822 | 🐛 178 | 🌐 Vala | 📅 2026-11-26 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
+* [Planner](https://github.com/alainm23/planner) ⭐ 5,823 | 🐛 178 | 🌐 Vala | 📅 2026-11-27 - The most intuitive project and task management tool [:white\_check\_mark:](https://appcenter.elementary.io/com.github.alainm23.planner.desktop)
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,214 | 🐛 39 | 🌐 Vala | 📅 2026-11-25 - Mind-mapping application [:white\_check\_mark:](https://appcenter.elementary.io/com.github.phase1geo.minder)
 * [FeedReader](https://github.com/jangernert/FeedReader) ⚠️ Archived - Modern desktop application designed to complement existing web-based RSS accounts
 * [Notes Up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager [:white\_check\_mark:](https://appcenter.elementary.io/com.github.philip-scott.notes-up.desktop)
@@ -308,4 +308,4 @@ Contributions are most welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

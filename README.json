@@ -1710,7 +1710,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-04T23:02:57Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "ryonakano",
                 "repo": "reco",
                 "stars": 134,
@@ -1872,11 +1872,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T18:46:24Z",
+                "last_commit": "2026-11-27T21:32:09Z",
                 "open_issues": 178,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5822,
+                "stars": 5823,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:14:25.256Z",
+    "last_updated": "2026-11-27T21:54:37.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, tools and shiny things for elementary OS ",
